@@ -283,6 +283,21 @@ input[type=checkbox], select {
 }
 
 
+button {
+  width: 100%;
+  background-color: #4CAF50;
+  font-color: white !important;
+  padding: 14px 20px;
+  margin: 8px 0 !important; 
+  border: none;
+  border-radius: 4px !important;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
 input[type=submit] {
   width: 100%;
   background-color: #4CAF50;
@@ -326,7 +341,7 @@ size:50% ;
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-img. harney-logo {
+img .harney-logo {
 size:80% ;
 }
 }

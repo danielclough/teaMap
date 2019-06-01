@@ -129,6 +129,10 @@
                             <input type="{{ item.input_type }}" name="import" id="import" class="form-control" {% if pageform.placeholders == true %}placeholder="Import Conditions{{ requiredstar }}"{% endif %} >
                         </div>
                 </div>
+                        {% elsif item.name == 'addsample' %}
+                   <div class="form-group">
+                        <button> <a href="/harney/addsample/" target="_blank">Add Sample</a></button>
+                    </div>
 
 
                         {% elsif item.name == 'sample' %}
