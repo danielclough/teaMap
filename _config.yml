@@ -1,7 +1,7 @@
 markdown:   kramdown
 
 url:    'https://danielclough.github.io'
-baseurl:  '/teadb'
+baseurl: '/teadb'
 
 plugins:
     - jekyll-admin

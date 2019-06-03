@@ -23,7 +23,7 @@
         <input type="hidden" name="_to" value="{{ pageform.to }}">
 {% elsif pageform.form_engine == 'formspree' %}
     <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="https://formspree.io/{{ pageform.to }}">
-        <input type="hidden" name="_next" value="{{ site.url }}{{ pageform.redirect }}" />
+        <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}{{ pageform.redirect }}" />
 {% elsif pageform.form_engine == 'formbucket' %}
     <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="{{ pageform.to }}">
 {% endif %}
@@ -129,13 +129,12 @@
                             <input type="{{ item.input_type }}" name="import" id="import" class="form-control" {% if pageform.placeholders == true %}placeholder="Import Conditions{{ requiredstar }}"{% endif %} >
                         </div>
                 </div>
-                        {% elsif item.name == 'addsample' %}
-                   <div class="form-group">
-                        <button> <a href="{{ site.url }}{{ site.baseurl }}/harney/addsample/" target="_blank">Add Sample</a></button>
-                    </div>
-
 
                         {% elsif item.name == 'sample' %}
+                    <div class="col-sm-10">
+                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
+                        <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
+                    </div>
                     <div class="row form-group">
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="sampleName">Name of Sample{{ requiredstar }}</label>

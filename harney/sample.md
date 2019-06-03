@@ -12,8 +12,6 @@ forms:
       - name: sample
         input_type: text
         required: false
-      - name: addsample
-        required: false
       - name: submit
         input_type: submit
         placeholder: Submit Form
