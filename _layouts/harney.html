@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+  <head>
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+  
+  <body>
 <img class="harney-logo" src="{{ site.url }}{{ site.baseurl }}/assets/harney-copyright/BlackGoldHarney_410x.png">
 <h3> {{ page.title }} </h3>
     <div id="content">
@@ -10,3 +14,9 @@ layout: default
 {% include better-forms.html %}
 </div>
 
+    <form action="?" method="POST">
+      <div class="g-recaptcha" data-sitekey="6Lfl_6YUAAAAANQ4xCei8gqN5VFRWm72ypyMfjpD"></div>
+      <br/>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
