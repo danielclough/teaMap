@@ -14,7 +14,7 @@ forms:
         required: false
       - name: submit
         input_type: submit
-        placeholder: Submit Form
+        placeholder: 提交表格
         required: true
 ---
 
