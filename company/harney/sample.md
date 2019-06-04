@@ -1,7 +1,7 @@
 ---
 layout: harney
 title: Sample Intake Form
-permalink: /company/harney/addsample/
+permalink: /company/harney/sample/
 forms:
   - to: mnowzakx
     subject: World Tea Expo Sample Intake Form!
