@@ -19,39 +19,13 @@ body {
   font-family: "Titillium Web", sans-serif;
 }
 
-#form-wrapper {
-  width:100%;
-}
 
-.form .label, .form .checkbox-input + label, .form .option-input + label, .form .text-input, .form .textarea, .form .select, .customSelect, .form .message, .form .button {
-  padding: 0.75em 1em;
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
-  outline: none;
-  line-height: normal;
-  border-radius: 0;
-  border: none;
-  background: none;
-  display: block;
-}
+
 
 form {
   background: -webkit-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
   background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
   background: linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
-}
-
-.form .label {
-  font-weight: bold;
-  color: white;
-  padding-top: 0;
-  padding-left: 0;
-  letter-spacing: 0.025em;
-  font-size: 1.125em;
-  line-height: 1.25;
-  position: relative;
-  z-index: 100;
 }
 
 
