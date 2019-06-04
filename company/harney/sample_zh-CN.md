@@ -22,7 +22,7 @@ forms:
 <div id="form-wrapper">
 	
 
-  {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+  {% if page.forms[0] %}{% include form_zh-CN.html form="1" %}{% endif %}
 
 </div>
 
