@@ -14,11 +14,11 @@ forms:
         required: true
       - name: previous
         input_type: checkbox
-        placeholder: Already Harney Supplier
+        placeholder: 已经是哈尼供应商
         required: false
       - name: submit
         input_type: submit
-        placeholder: Submit Form
+        placeholder: 提交表格
         required: true
 ---
 
