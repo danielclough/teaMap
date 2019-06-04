@@ -7,5 +7,6 @@ permalink: /harney/sample-redirect/
   <meta http-equiv='refresh' content='3; URL={{ site.url }}{{ site.baseurl }}/harney/addsample/'>
 </head>
 <body>
-	<h3> Thank you for your submission! <br/> Use the same form to submit more samples! </h3>
+<div>
+	<h3> Thank you for your submission! </h3></div><div> <h3> Use the same form to submit more samples! </h3></div>
 </body>
