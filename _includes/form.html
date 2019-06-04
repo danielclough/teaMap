@@ -36,7 +36,7 @@
         {% if item.required %}{% assign requiredtext = '*' %}{% else %}{% assign requiredtext = '' %}{% endif %}
 
         {% if item.input_type == 'textarea' %}
-        <div class="row form-group">
+        <div class="form-row form-group">
             <div class="col-sm-12">
                 <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="{{ item.name }}">{{ item.placeholder }}{{ requiredstar }}</label>
                 <textarea name="{{ item.name }}" name="{{ item.name }}" id="{{ item.name }}" cols="30" rows="10" class="form-control" {% if pageform.placeholders == true %}placeholder="{{ item.placeholder }}{{ requiredstar }}"{% endif %} ></textarea>
@@ -75,7 +75,7 @@
 
         {% else %}
             {% if item.name == 'business' %}
-                <div class="row form-group">
+                <div class="form-row form-group">
                     <div class="col-sm-10">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
@@ -89,7 +89,7 @@
                         <input type="{{ item.input_type }}" name="lastname" id="lastname" class="form-control" {% if pageform.placeholders == true %}placeholder="Last name{{ requiredstar }}"{% endif %} >
                     </div>
                 </div>
-                <div class="row form-group">
+                <div class="form-row form-group">
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
@@ -103,7 +103,7 @@
                             <input type="{{ item.input_type }}" name="website" id="website" class="form-control" {% if pageform.placeholders == true %}placeholder="Website{{ requiredstar }}"{% endif %} >
                         </div>
                      </div>
-                <div class="row form-group"> 
+                <div class="form-row form-group"> 
                     <div class="col-sm-12">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="address">Address{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="address" id="address" class="form-control" {% if pageform.placeholders == true %}placeholder="Address{{ requiredstar }}"{% endif %} >
@@ -135,39 +135,39 @@
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
                     </div>
-                    <div class="col-sm-6">
+                    <div class="col-sm-10">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
                         </div>
-                    <div class="row form-group">
-                        <div class="col-sm-12">
+                    <div class="form-row form-group">
+                        <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="sampleName">Name of Sample{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="sampleName" id="sampleName" class="form-control" {% if pageform.placeholders == true %}placeholder="Name of Sample{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-12">
+                        <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="sampleName">Sample ID{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="sampleID" id="sampleID" class="form-control" {% if pageform.placeholders == true %}placeholder="Sample ID{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="grams">Grams in sample{{ requiredstar }}</label>
                             <input type="numbers" name="grams" id="grams" class="form-control" {% if pageform.placeholders == true %}placeholder="Grams{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="price">Price USD/kg{{ requiredstar }}</label>
                             <input type="numbers" name="price" id="price" class="form-control" {% if pageform.placeholders == true %}placeholder="Price{{ requiredstar }}"{% endif %} >
                         </div>
                         
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="quantity">Available Quantity{{ requiredstar }}</label>
                             <input type="numbers" name="quantity" id="quantity" class="form-control" {% if pageform.placeholders == true %}placeholder="Available Quantity{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="purchase">Min. Purchase{{ requiredstar }}</label>
                             <input type="numbers" name="purchase" id="purchase" class="form-control" {% if pageform.placeholders == true %}placeholder="Min. Purchase{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="grade">Quality Grade{{ requiredstar }}</label>
-                            <input type="{{ item.input_type }}" name="grade" id="grade" class="form-control" {% if pageform.placeholders == true %}placeholder="Quality Grade{{ requiredstar }}"{% endif %} >
+                            <input type="numbers" name="grade" id="grade" class="form-control" {% if pageform.placeholders == true %}placeholder="Quality Grade{{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance">Describe the appearance{{ requiredstar }}</label>
@@ -178,7 +178,7 @@
                             <input type="textarea" name="taste" id="taste" class="form-control" {% if pageform.placeholders == true %}placeholder="Describe the taste{{ requiredstar }}"{% endif %} >
                         </div>  
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="cert">Certifications? {{ requiredstar }}</label>
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="cert">Certifications? (comma separated) {{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="cert" id="cert" class="form-control" {% if pageform.placeholders == true %}placeholder="ertifications? {{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
@@ -215,7 +215,7 @@
                         </div>
 
             {% else %}
-                <div class="row form-group">
+                <div class="form-row form-group">
                     <div class="col-sm-12">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="{{ item.name }}">{{ item.placeholder }}{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="{{ item.name }}" id="{{ item.name }}" class="form-control" {% if pageform.placeholders == true %}placeholder="{{ item.placeholder }}{{ requiredstar }}"{% endif %} >
