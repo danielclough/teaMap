@@ -30,6 +30,7 @@
 
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_subject" value="{{ pageform.subject }}" />
+    <input type="hidden" name="_replyto" >
 
     {% for item in pageform.fields %}
         {% if item.required %}{% assign requiredstar = '*' %}{% else %}{% assign requiredstar = '' %}{% endif %}
@@ -92,7 +93,7 @@
                 <div class="row form-group">
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
-                            <input type="{{ item.input_type }}" name="_replyto" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
+                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
                         </div>
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="phone">Phone Number{{ requiredstar }}</label>
@@ -137,7 +138,7 @@
                     </div>
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
-                            <input type="{{ item.input_type }}" name="_replyto" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
+                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
                         </div>
                     <div class="row form-group">
                         <div class="col-sm-12">

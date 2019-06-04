@@ -23,7 +23,9 @@ forms:
 	
 
   {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
-
+  <div>
+  <p> *After reCAPTCHA you can alter the form to Submit your next sample. </p>
+</div>
 
 </div>
 

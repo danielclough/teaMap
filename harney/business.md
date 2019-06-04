@@ -3,7 +3,7 @@ layout: harney
 title: Business Intake Form
 permalink: /harney/addbusiness/
 forms:
-  - to: danielclough@gmail.com
+  - to: moprwgkx
     subject: World Tea Expo Sample Intake Form!
     redirect: /harney/addsample
     form_engine: formspree
