@@ -1,3 +1,15 @@
+
+img.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+img.harney-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 60vw ;}
+
 html {
   -webkit-font-smoothing: antialiased;
 }
@@ -166,46 +178,3 @@ foot p {
 	text-align: center;
 	margin-bottom: -15px;
 }
-
-img.logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-
-img.harney-logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
- /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-	img .harney-logo {
-size:30% ;
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-img .harney-logo {
-size:50% ;
-}
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-img .harney-logo {
-size:100% ;
-}
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-	img .harney-logo {
-size:120% ;
-}
-}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-img .harney-logo {
-size:150% ;
-}
-} 
