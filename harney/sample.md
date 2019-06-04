@@ -3,9 +3,9 @@ layout: harney
 title: Sample Intake Form
 permalink: /harney/addsample/
 forms:
-  - to: danielclough@gmail.com
+  - to: xvvlakrx
     subject: World Tea Expo Sample Intake Form!
-    redirect: /
+    redirect: /harney/addsample
     form_engine: formspree
     placeholders: false
     fields: 

@@ -92,7 +92,7 @@
                 <div class="row form-group">
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
-                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
+                            <input type="{{ item.input_type }}" name="_replyto" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
                         </div>
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="phone">Phone Number{{ requiredstar }}</label>
@@ -135,6 +135,10 @@
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
                     </div>
+                    <div class="col-sm-6">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
+                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
+                        </div>
                     <div class="row form-group">
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="sampleName">Name of Sample{{ requiredstar }}</label>
