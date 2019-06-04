@@ -3,7 +3,7 @@ layout: harney
 title: 样品摄入表格
 permalink: /company/harney/sample_zh-CN/
 forms:
-  - to: danielclough@gmail.com
+  - to: xgpdqjam
     subject: World Tea Expo Sample Intake Form!
     redirect: /company/harney/sample-redirect_zh-CN/
     form_engine: formspree
