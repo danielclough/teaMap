@@ -1,6 +1,6 @@
 ---
 layout: harney
-title: Business Intake Form
+title: 商务摄入表格
 permalink: /company/harney/business_zh-CN/
 forms:
   - to: moprwgkx

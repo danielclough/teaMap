@@ -1,6 +1,6 @@
 ---
 layout: harney
-title: Sample Intake Form
+title: 样品摄入表格
 permalink: /company/harney/sample_zh-CN/
 forms:
   - to: mnowzakx
