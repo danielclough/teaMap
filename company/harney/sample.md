@@ -1,20 +1,16 @@
 ---
 layout: harney
-title: Business Intake Form
-permalink: /harney/addbusiness/
+title: Sample Intake Form
+permalink: /company/harney/addsample/
 forms:
-  - to: moprwgkx
+  - to: mnowzakx
     subject: World Tea Expo Sample Intake Form!
-    redirect: /harney/addsample
+    redirect: /harney/sample-redirect/
     form_engine: formspree
     placeholders: false
     fields: 
-      - name: business
+      - name: sample
         input_type: text
-        required: true
-      - name: previous
-        input_type: checkbox
-        placeholder: Already Harney Supplier
         required: false
       - name: submit
         input_type: submit
@@ -27,6 +23,9 @@ forms:
 	
 
   {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+
+</div>
+
 
 
 

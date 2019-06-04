@@ -1,6 +1,6 @@
 ---
 layout: harney
-permalink: /harney/sample-redirect/
+permalink: /company/harney/sample-redirect/
 ---
 
 <head>
