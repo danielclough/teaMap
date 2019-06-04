@@ -1,11 +1,11 @@
 ---
 layout: harney
 title: Sample Intake Form
-permalink: /company/harney/sample/
+permalink: /company/harney/sample_zh-CN/
 forms:
   - to: mnowzakx
     subject: World Tea Expo Sample Intake Form!
-    redirect: /company/harney/sample-redirect/
+    redirect: /company/harney/sample-redirect_zh-CN/
     form_engine: formspree
     placeholders: false
     fields: 
