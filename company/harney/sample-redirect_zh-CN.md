@@ -4,7 +4,7 @@ permalink: /company/harney/sample-redirect_zh-CN/
 ---
 
 <head>
-  <meta http-equiv='refresh' content='3; URL={{ site.url }}{{ site.baseurl }}/harney/addsample/'>
+  <meta http-equiv='refresh' content='3; URL={{ site.url }}{{ site.baseurl }}/company/harney/addsample_zh-CN/'>
 </head>
 <body>
 <div>
