@@ -3,7 +3,7 @@ layout: harney
 title: Sample Intake Form
 permalink: /harney/addsample/
 forms:
-  - to: xvvlakrx
+  - to: mnowzakx
     subject: World Tea Expo Sample Intake Form!
     redirect: /harney/addsample
     form_engine: formspree
