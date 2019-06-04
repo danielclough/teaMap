@@ -5,7 +5,7 @@ permalink: /harney/addsample/
 forms:
   - to: mnowzakx
     subject: World Tea Expo Sample Intake Form!
-    redirect: /harney/addsample
+    redirect: /harney/sample-redirect/
     form_engine: formspree
     placeholders: false
     fields: 
