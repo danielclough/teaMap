@@ -1,9 +1,0 @@
-    - Bcorp
-    - 1% for the Planet  
-    - Fair Trade        
-    - Rainforest Alliance
-    - UTZ Certified
-    - ISO 22000 Organic
-    - Gluten Free
-    - Raw
-    - Non-GMO
