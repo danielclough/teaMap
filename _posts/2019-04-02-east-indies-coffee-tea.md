@@ -36,11 +36,13 @@ category:
 
 
 tags:
-- Organic
 - Blends	
 - Commodity Tea
 - Herbs 
 - Spices
+
+certifications:
+- Organic
 ---
 
  

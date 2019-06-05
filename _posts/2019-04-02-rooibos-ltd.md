@@ -37,16 +37,19 @@ categories:
 - Formulation
 
 tags:
-- Organic
 - Specialty Tea	
 - Commodity Tea
 - Herbs 
 - Spices
 - Sustainability 
+
+certifications:
+- Organic
 - Rainforest Alliance
 - UTZ Certified 
 - Fair Trade
 - ISO 22000
+
 ---
 
  

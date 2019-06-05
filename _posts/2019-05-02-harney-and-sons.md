@@ -40,13 +40,15 @@ categories:
 - Wholesale 
 
 tags:
-- Organic
 - Specialty Tea 	
 - Commodity Tea
 - Accessories
 - Blends
-- 1% for the Planet
 - Bottled
+
+certifications:
+- Organic
+- 1% for the Planet
 ---
 
  

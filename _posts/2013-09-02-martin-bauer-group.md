@@ -37,11 +37,13 @@ categories:
 - Formulation
 
 tags:
-- Organic
 - Supplements 	
 - Extracts
 - Safety
 - Sustainability 
+
+certifications:
+- Organic
 ---
 
  

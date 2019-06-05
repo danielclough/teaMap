@@ -37,12 +37,15 @@ categories:
 - Formulation
 
 tags:
-- Organic
 - Specialty Tea
 - Commodity Tea
 - Herbs 
 - Spices
 - Sustainability 
+
+certifications:
+- Organic
+
 ---
 
  

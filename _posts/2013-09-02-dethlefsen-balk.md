@@ -38,13 +38,15 @@ categories:
 - Wholesale
 
 tags:
-- Organic
 - Accessories
 - Specialty Tea
 - Commodity Tea
 - Herbs
 - Spices
 - Sustainability 
+
+certifications:
+- Organic
 ---
 
  

@@ -37,16 +37,19 @@ categories:
 - Formulation
 
 tags:
-- Organic
-- Gluten Free 	
-- 1% for the planet
 - Herbs
 - Spices
-- B-corp
 - Raw
-- Non-GMO
 - Kombucha
 - Bottled 
+
+certifications:
+- Organic
+- Gluten Free 	
+- 1% for the Planet
+- B-Corp
+- Non-GMO
+
 ---
 
  
