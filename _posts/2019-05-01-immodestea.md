@@ -68,8 +68,9 @@ tags:
 - Fair Trade
 - UTZ Certified
 - Rainforest Alliance
-- Blends
 - Non-GMO
 - Raw
 - Organic
+- Gluten Free
+- B-Corp
 ---

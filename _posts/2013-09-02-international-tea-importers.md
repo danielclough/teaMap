@@ -40,8 +40,8 @@ tags:
 - Specialty Tea
 - Commodity Tea
 - Flavored Tea
-- Blended Tea
-- Herbal Tea
+- Blends
+- Herbs
 ---
 
  

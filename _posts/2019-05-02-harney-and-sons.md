@@ -37,13 +37,13 @@ categories:
 - Sourcing
 - Manufacturing
 - Formulation
+- Wholesale 
 
 tags:
 - Organic
 - Specialty Tea 	
 - Commodity Tea
 - Accessories
-- Wholesale 
 - Blends
 - 1% for the Planet
 - Bottled

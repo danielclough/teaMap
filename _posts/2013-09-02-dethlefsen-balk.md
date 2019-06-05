@@ -35,6 +35,7 @@ categories:
 - Sourcing
 - Manufacturing
 - Formulation
+- Wholesale
 
 tags:
 - Organic
@@ -44,7 +45,6 @@ tags:
 - Herbs
 - Spices
 - Sustainability 
-- Wholesale
 ---
 
  

@@ -42,7 +42,7 @@ tags:
 - 1% for the planet
 - Herbs
 - Spices
-- Bcorp
+- B-corp
 - Raw
 - Non-GMO
 - Kombucha
