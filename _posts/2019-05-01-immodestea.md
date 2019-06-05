@@ -63,4 +63,13 @@ tags:
 - Accessories
 - Safety
 - Sustainability
+- 1% for the Planet
+- ISO 22000
+- Fair Trade
+- UTZ Certified
+- Rainforest Alliance
+- Blends
+- Non-GMO
+- Raw
+- Organic
 ---
