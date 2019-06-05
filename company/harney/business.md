@@ -12,9 +12,6 @@ forms:
       - name: business
         input_type: text
         required: true
-      - name: tandc
-        input_type: checkbox
-        required: false
       - name: previous
         input_type: checkbox
         placeholder: Already Harney Supplier
