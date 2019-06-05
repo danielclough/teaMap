@@ -45,8 +45,6 @@ tags:
 - Accessories
 - Blends
 - Bottled
-
-certifications:
 - Organic
 - 1% for the Planet
 ---

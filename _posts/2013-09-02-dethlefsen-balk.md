@@ -44,8 +44,6 @@ tags:
 - Herbs
 - Spices
 - Sustainability 
-
-certifications:
 - Organic
 ---
 

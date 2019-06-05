@@ -42,8 +42,6 @@ tags:
 - Raw
 - Kombucha
 - Bottled 
-
-certifications:
 - Organic
 - Gluten Free 	
 - 1% for the Planet

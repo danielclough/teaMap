@@ -64,9 +64,6 @@ tags:
 - Safety
 - Sustainability
 - Raw
-
-
-certifications:
 - Organic
 - Gluten Free
 - B-Corp

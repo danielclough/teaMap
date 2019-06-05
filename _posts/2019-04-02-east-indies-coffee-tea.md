@@ -40,8 +40,6 @@ tags:
 - Commodity Tea
 - Herbs 
 - Spices
-
-certifications:
 - Organic
 ---
 

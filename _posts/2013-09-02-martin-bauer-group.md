@@ -41,8 +41,6 @@ tags:
 - Extracts
 - Safety
 - Sustainability 
-
-certifications:
 - Organic
 ---
 

@@ -42,8 +42,6 @@ tags:
 - Herbs 
 - Spices
 - Sustainability 
-
-certifications:
 - Organic
 - Rainforest Alliance
 - UTZ Certified 
