@@ -40,12 +40,13 @@ categories:
 
 tags:
 - Organic
-- Specialty Teas 	
-- Commodity Teas
+- Specialty Tea 	
+- Commodity Tea
 - Accessories
 - Wholesale 
 - Blends
 - 1% for the Planet
+- Bottled
 ---
 
  

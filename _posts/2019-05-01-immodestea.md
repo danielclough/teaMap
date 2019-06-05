@@ -47,18 +47,18 @@ categories:
 - Wholesale
 
 tags:
-- Specialty Teas
-- Commodity Teas
-- Flavored Teas
-- Blended Teas
-- Herbal Teas
+- Specialty Tea
+- Commodity Tea
+- Flavored Tea
+- Blends
+- Herbs
+- Bottled
 - Botanicals
 - Spices
 - Coffee
 - Supplements
 - Extracts
 - Matcha
-- Bottled 
 - Kombucha        
 - Accessories
 - Safety

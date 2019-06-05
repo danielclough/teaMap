@@ -40,11 +40,13 @@ tags:
 - Organic
 - Gluten Free 	
 - 1% for the planet
-- Herbs & Spices
+- Herbs
+- Spices
 - Bcorp
 - Raw
 - Non-GMO
-- Kombucha 
+- Kombucha
+- Bottled 
 ---
 
  

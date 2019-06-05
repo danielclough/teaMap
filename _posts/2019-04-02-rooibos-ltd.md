@@ -38,9 +38,10 @@ categories:
 
 tags:
 - Organic
-- Specialty Teas 	
-- Commodity Teas
-- Herbs & Spices
+- Specialty Tea	
+- Commodity Tea
+- Herbs 
+- Spices
 - Sustainability 
 - Rainforest Alliance
 - UTZ Certified 

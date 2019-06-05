@@ -39,9 +39,10 @@ categories:
 tags:
 - Organic
 - Accessories
-- Specialty Teas 	
-- Commodity Teas
-- Herbs & Spices
+- Specialty Tea
+- Commodity Tea
+- Herbs
+- Spices
 - Sustainability 
 - Wholesale
 ---

@@ -38,8 +38,9 @@ category:
 tags:
 - Organic
 - Blends	
-- Commodity Teas
-- Herbs & Spices
+- Commodity Tea
+- Herbs 
+- Spices
 ---
 
  
