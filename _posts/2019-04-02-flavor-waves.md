@@ -31,13 +31,11 @@ harvest-date:
 finish-date:
 recommended:
 
-categories:
-- 
-- 
-- 
+category:
+- Flavors
 
 tags:
-- Flavors
+- Flavored Tea
 ---
 
  

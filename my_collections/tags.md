@@ -1,0 +1,16 @@
+    - Specialty Tea
+    - Commodity Tea
+    - Flavored Tea
+    - Blended Tea
+    - Herbal Tea
+    - Botanicals
+    - Spices
+    - Coffee
+    - Supplements
+    - Extracts
+    - Matcha
+    - Bottled 
+    - Kombucha        
+    - Accessories
+    - Safety
+    - Sustainability
