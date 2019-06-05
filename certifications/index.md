@@ -6,7 +6,7 @@ layout: default
 {% for certifications in site.certifications %}
   <div class="archive-group">
     {% capture certifications_id %}{{ certifications | first }}{% endcapture %}
-    <div id="#{{ certification_id | slugize }}"></div>
+    <div id="#{{ certifications_id | slugize }}"></div>
     <p></p>
     <h3 class="certifications-head">{{ certifications_id }}</h3>
     <a name="{{ post.link }}"></a>
