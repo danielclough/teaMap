@@ -10,7 +10,7 @@ layout: default
     <p></p>
     <h3 class="tag-head">{{ tag_id }}</h3>
     <a name="{{ post.link }}"></a>
-    {% for post in site.categories[tag_id] %}
+    {% for post in site.tags[tag_id] %}
     <article class="archive-item"> 
       <h4><a href="{{ post.link }}">{{post.company-name}}</a></h4>
     </article>

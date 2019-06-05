@@ -33,7 +33,7 @@ recommended:
 
 categories:
 - Sourcing
-- Manufactuing
+- Manufacturing
 - Formulation
 
 tags:

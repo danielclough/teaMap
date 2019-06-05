@@ -33,12 +33,12 @@ recommended:
 
 categories:
 - Sourcing
-- Manufactuing
+- Manufacturing
 - Formulation
 
 tags:
 - Organic
-- Accesories
+- Accessories
 - Specialty Teas 	
 - Commodity Teas
 - Herbs & Spices
