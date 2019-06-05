@@ -34,11 +34,33 @@ finish-date:
 recommended:
 
 categories:
-- online
-- data
-- import
+- Blending
+- Data Services
+- Events
+- Flavors
+- Formulation
+- Export
+- Import
+- Manufacturing
+- Online
+- Sourcing
+- Wholesale
 
 tags:
-- data
-- events
+- Specialty Tea
+- Commodity Tea
+- Flavored Tea
+- Blended Tea
+- Herbal Tea
+- Botanicals
+- Spices
+- Coffee
+- Supplements
+- Extracts
+- Matcha
+- Bottled 
+- Kombucha        
+- Accessories
+- Safety
+- Sustainability
 ---

@@ -31,10 +31,9 @@ harvest-date:
 finish-date:
 recommended:
 
-categories:
+category:
 - 
-- 
-- 
+
 
 tags:
 - Organic
