@@ -12,7 +12,7 @@ layout: default
     <a name="{{ certifications.post.link }}"></a>
     {% for post in site.certifications[certifications_id] %}
     <article class="archive-item"> 
-      <h4><a href="{{ certifications.post.link }}">{{post.company-name}}</a></h4>
+      <h4><a href="{{ certifications.post.link }}">{{certifications.post.company-name}}</a></h4>
     </article>
     {% endfor %}
   </div>
