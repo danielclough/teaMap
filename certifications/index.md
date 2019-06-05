@@ -9,10 +9,10 @@ layout: default
     <div id="#{{ certifications_id | slugize }}"></div>
     <p></p>
     <h3 class="certifications-head">{{ certifications_id }}</h3>
-    <a name="{{ post.link }}"></a>
+    <a name="{{ certifications.post.link }}"></a>
     {% for post in site.certifications[certifications_id] %}
     <article class="archive-item"> 
-      <h4><a href="{{ post.link }}">{{post.company-name}}</a></h4>
+      <h4><a href="{{ certifications.post.link }}">{{post.company-name}}</a></h4>
     </article>
     {% endfor %}
   </div>
