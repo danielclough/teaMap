@@ -63,14 +63,18 @@ tags:
 - Accessories
 - Safety
 - Sustainability
+- Raw
+
+
+certifications:
+- Organic
+- Gluten Free
+- B-Corp
 - 1% for the Planet
 - ISO 22000
 - Fair Trade
 - UTZ Certified
 - Rainforest Alliance
 - Non-GMO
-- Raw
-- Organic
-- Gluten Free
-- B-Corp
+
 ---
