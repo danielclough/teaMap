@@ -1,17 +1,17 @@
 ---
-layout: default
-title: Tasting Form
-permalink: /tea/tasting/
+layout: immodestea
+title: Business Intake Form
+permalink: /company/immodestea/business/
 forms:
-  - to: xvdoqlnx
-    subject: Tasting Form
-    redirect: /tea/tasting/
+  - to: moprwgkx
+    subject: Business Intake Form!
+    redirect: /company/immodestea/sample
     form_engine: formspree
     placeholders: false
     fields: 
-      - name: tasting
+      - name: business
         input_type: text
-        required: false
+        required: true
       - name: submit
         input_type: submit
         placeholder: Submit Form

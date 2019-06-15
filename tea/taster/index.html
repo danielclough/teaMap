@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Tasting Form
-permalink: /tea/tasting/
+title: Taster Form
+permalink: /taster/intake/
 forms:
-  - to: xvdoqlnx
-    subject: Tasting Form
-    redirect: /tea/tasting/
+  - to: danielclough@gmail.com
+    subject: Taster Form
+    redirect: /tea/taster/
     form_engine: formspree
     placeholders: false
     fields: 
-      - name: tasting
+      - name: taster
         input_type: text
         required: false
       - name: submit
@@ -20,11 +20,7 @@ forms:
 
 
 <div id="form-wrapper">
-	
+  
 
   {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
-
-
-
-
 

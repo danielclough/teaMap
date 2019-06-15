@@ -1,15 +1,15 @@
 ---
-layout: default
-title: Tasting Form
-permalink: /tea/tasting/
+layout: immodestea
+title: Sample Intake Form
+permalink: /company/immodestea/sample/
 forms:
-  - to: xvdoqlnx
-    subject: Tasting Form
-    redirect: /tea/tasting/
+  - to: mnowzakx
+    subject: Sample Intake Form!
+    redirect: /company/immodestea/sample-redirect/
     form_engine: formspree
     placeholders: false
     fields: 
-      - name: tasting
+      - name: sample
         input_type: text
         required: false
       - name: submit
@@ -23,6 +23,9 @@ forms:
 	
 
   {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+
+</div>
+
 
 
 

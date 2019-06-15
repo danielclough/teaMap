@@ -209,13 +209,8 @@
 
 
 
-
-
-
-
-            {% elsif item.name == 'tasting' %}
-            <div><h3> Taster's Info </h3></div>
-                <div class="form-row form-group"> 
+            {% elsif item.name == 'taster' %}
+                <div class="form-row form-group">
                     <div class="col-sm-6">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="firstname">First name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="firstname" id="firstname" class="form-control" {% if pageform.placeholders == true %}placeholder="First name{{ requiredstar }}"{% endif %} >
@@ -223,32 +218,57 @@
                     <div class="col-sm-6">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="lastname">Last name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="lastname" id="lastname" class="form-control" {% if pageform.placeholders == true %}placeholder="Last name{{ requiredstar }}"{% endif %} >
-                    </div>
+                    </div>                    
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
-                    </div>
+                        </div>
                     <div class="col-sm-6">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="phone">Phone Number{{ requiredstar }}</label>
+                            <input type="{{ item.input_type }}" name="phone" id="phone" class="form-control" {% if pageform.placeholders == true %}placeholder="Phone Number{{ requiredstar }}"{% endif %} >
+                        </div>
+                        <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="website">Website{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="website" id="website" class="form-control" {% if pageform.placeholders == true %}placeholder="Website{{ requiredstar }}"{% endif %} >
-                    </div>
+                        </div>
+                     </div>
+                <div class="form-row form-group">
                     <div class="col-sm-10">
-                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
+                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="tasterName">Business name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
+                    </div>                     
+                <div class="form-row form-group"> 
+                    <div class="col-sm-12">
+                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="address">Address{{ requiredstar }}</label>
+                        <input type="{{ item.input_type }}" name="address" id="address" class="form-control" {% if pageform.placeholders == true %}placeholder="Address{{ requiredstar }}"{% endif %} >
                     </div>
-                
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="city">City{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="city" id="city" class="form-control" {% if pageform.placeholders == true %}placeholder="City{{ requiredstar }}"{% endif %} >
-                        </div>  
-                        <div class="col-sm-4">
+                        </div>
+                        <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="postalcode">Postal code{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="postalcode" id="postalcode" class="form-control" {% if pageform.placeholders == true %}placeholder="Postal code{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="country">Country {{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="country" id="country" class="form-control" {% if pageform.placeholders == true %}placeholder="Country{{ requiredstar }}"{% endif %} >
                         </div>
+                        <div class="col-sm-6">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="region">State/Province {{ requiredstar }}</label>
+                            <input type="{{ item.input_type }}" name="region" id="region" class="form-control" {% if pageform.placeholders == true %}placeholder="State/Province{{ requiredstar }}"{% endif %} >
+                        </div>
+                </div>
+
+
+
+            {% elsif item.name == 'tasting' %}
+            <div><h3> Taster's Info </h3></div>
+                <div class="form-row form-group"> 
+                    <div class="col-sm-6">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }} <a href="/taster/intake/">Register Here</a></label>
+                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
+                    </div>
                 </div>
                 <div><h3> Tea's Info </h3></div>
                     <div class="form-row form-group"> 
