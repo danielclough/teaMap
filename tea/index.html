@@ -1,0 +1,30 @@
+---
+layout: default
+title: Tasting Form
+permalink: /tea/tasting/
+forms:
+  - to: danielclough@gmail.com
+    subject: Tasting Form
+    redirect: /tea/tasting/
+    form_engine: formspree
+    placeholders: false
+    fields: 
+      - name: tasting
+        input_type: text
+        required: false
+      - name: submit
+        input_type: submit
+        placeholder: Submit Form
+        required: true
+---
+
+
+<div id="form-wrapper">
+	
+
+  {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+
+
+
+
+
