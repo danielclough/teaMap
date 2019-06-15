@@ -214,7 +214,8 @@
 
 
             {% elsif item.name == 'tasting' %}
-                <div class="form-row form-group">
+            <div><h3> Taster's Info </h3></div>
+                <div class="form-row form-group"> 
                     <div class="col-sm-6">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="firstname">First name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="firstname" id="firstname" class="form-control" {% if pageform.placeholders == true %}placeholder="First name{{ requiredstar }}"{% endif %} >
@@ -223,8 +224,6 @@
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="lastname">Last name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="lastname" id="lastname" class="form-control" {% if pageform.placeholders == true %}placeholder="Last name{{ requiredstar }}"{% endif %} >
                     </div>
-                </div>
-                <div class="form-row form-group">
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
@@ -251,7 +250,8 @@
                             <input type="{{ item.input_type }}" name="country" id="country" class="form-control" {% if pageform.placeholders == true %}placeholder="Country{{ requiredstar }}"{% endif %} >
                         </div>
                 </div>
-                    <div class="form-row form-group">
+                <div><h3> Tea's Info </h3></div>
+                    <div class="form-row form-group"> 
                         <div class="col-sm-8">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="productName">Product Name{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="productName" id="productName" class="form-control" {% if pageform.placeholders == true %}placeholder="Product Name{{ requiredstar }}"{% endif %} >
@@ -266,21 +266,10 @@
                             <input type="{{ item.input_type }}" name="distribName" id="distribName" class="form-control" {% if pageform.placeholders == true %}placeholder="Distributor Name{{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-3">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="grams">Grams in sample{{ requiredstar }}</label>
-                            <input type="numbers" name="grams" id="grams" class="form-control" {% if pageform.placeholders == true %}placeholder="Grams{{ requiredstar }}"{% endif %} >
-                        </div>
-                        <div class="col-sm-3">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="price">Price USD/kg or oz{{ requiredstar }}</label>
                             <input type="numbers" name="price" id="price" class="form-control" {% if pageform.placeholders == true %}placeholder="Price{{ requiredstar }}"{% endif %} >
                         </div>
-                        <div class="col-sm-3">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="waterVol">Water volume{{ requiredstar }}</label>
-                            <input type="numbers" name="waterVol" id="waterVol" class="form-control" {% if pageform.placeholders == true %}placeholder="Water volume{{ requiredstar }}"{% endif %} >
-                        </div>               
-                        <div class="col-sm-3">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="waterVol">Water temp{{ requiredstar }}</label>
-                            <input type="numbers" name="waterTemp" id="waterTemp" class="form-control" {% if pageform.placeholders == true %}placeholder="Water temp{{ requiredstar }}"{% endif %} >
-                        </div>              
+
                         <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="brewVes">Brewing vessel{{ requiredstar }}</label>
                             <input type="text" name="brewVes" id="brewVes" class="form-control" {% if pageform.placeholders == true %}placeholder="Brewing vessel{{ requiredstar }}"{% endif %} >
@@ -289,6 +278,18 @@
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="waterSrc">Water source{{ requiredstar }}</label>
                             <input type="text" name="waterSrc" id="waterSrc" class="form-control" {% if pageform.placeholders == true %}placeholder="Water source {{ requiredstar }}"{% endif %} >
                         </div>                                                                        
+                        <div class="col-sm-3">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="waterVol">Water volume{{ requiredstar }}</label>
+                            <input type="numbers" name="waterVol" id="waterVol" class="form-control" {% if pageform.placeholders == true %}placeholder="Water volume{{ requiredstar }}"{% endif %} >
+                        </div>               
+                        <div class="col-sm-3">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="waterVol">Water temp{{ requiredstar }}</label>
+                            <input type="numbers" name="waterTemp" id="waterTemp" class="form-control" {% if pageform.placeholders == true %}placeholder="Water temp{{ requiredstar }}"{% endif %} >
+                        </div>   
+                                                <div class="col-sm-3">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="grams">Grams of tea{{ requiredstar }}</label>
+                            <input type="numbers" name="grams" id="grams" class="form-control" {% if pageform.placeholders == true %}placeholder="Grams of tea{{ requiredstar }}"{% endif %} >
+                        </div>
                                   
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="preparation">Describe Preparation{{ requiredstar }}</label>
