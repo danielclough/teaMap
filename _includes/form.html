@@ -426,6 +426,10 @@ Filter material if different than
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="mouthfeel">Mouthfeel of brew{{ requiredstar }}</label>
                             <textarea rows="2" name="mouthfeel" id="mouthfeel" class="form-control" {% if pageform.placeholders == true %}placeholder="Mouthfeel of First brew {{ requiredstar }}"{% endif %} ></textarea>
                         </div>  
+                        <div class="col-sm-12">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="cupFragrance">Cup fragrance{{ requiredstar }}</label>
+                            <textarea rows="1" name="cupFragrance" id="cupFragrance" class="form-control" {% if pageform.placeholders == true %}placeholder="Cup fragrance{{ requiredstar }}"{% endif %} ></textarea>
+                        </div>                          
                                             </div>
 <div class="collapsible"><h4> Later Brews - Click to open </h4></div>
 <div class="content">
@@ -450,7 +454,11 @@ Filter material if different than
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="mouthfeel-2nd">Mouthfeel of second brew{{ requiredstar }}</label>
                             <textarea rows="2" name="mouthfeel-2nd" id="mouthfeel-2nd" class="form-control" {% if pageform.placeholders == true %}placeholder="Mouthfeel of Second brew{{ requiredstar }}"{% endif %} ></textarea>      
-                        </div>                    
+                        </div>         
+                        <div class="col-sm-12">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="cupFragrance-2nd">Cup fragrance of second brew{{ requiredstar }}</label>
+                            <textarea rows="1" name="cupFragrance-2nd" id="cupFragrance-2nd" class="form-control" {% if pageform.placeholders == true %}placeholder="Cup fragrance of second brew{{ requiredstar }}"{% endif %} ></textarea>
+                        </div>                                       
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-later">Appearance of subsequent brews{{ requiredstar }}</label>
                             <textarea rows="2" name="appearance-later" id="appearance-later" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of subsequent brews{ requiredstar }}"{% endif %} ></textarea>
@@ -466,7 +474,11 @@ Filter material if different than
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="mouthfeel-later">Mouthfeel of subsequent brews{{ requiredstar }}</label>
                             <textarea rows="2" name="mouthfeel-later" id="mouthfeel-later" class="form-control" {% if pageform.placeholders == true %}placeholder="Mouthfeel of subsequent brews{{ requiredstar }}"{% endif %} ></textarea>
-                        </div>          
+                        </div>     
+                        <div class="col-sm-12">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="cupFragrance-later">Cup fragrance of subsequent brews{{ requiredstar }}</label>
+                            <textarea rows="1" name="cupFragrance-later" id="cupFragrance-later" class="form-control" {% if pageform.placeholders == true %}placeholder="Cup fragrance of subsequent brews{{ requiredstar }}"{% endif %} ></textarea>
+                        </div>                                  
                     </div>
                 </div>
                     <div class="form-row form-group"> 
