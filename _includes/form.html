@@ -68,6 +68,7 @@
 
         {% else %}
             {% if item.name == 'business' %}
+            <input type="reset" value="This is a reset button">
                 <div class="form-row form-group">
                     <div class="col-sm-10">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
@@ -124,6 +125,7 @@
                 </div>
 
         {% elsif item.name == 'sample' %}
+        <input type="reset" value="This is a reset button">
                     <div class="col-sm-10">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
@@ -211,6 +213,7 @@
 
 
             {% elsif item.name == 'taster' %}
+            <input type="reset" value="This is a reset button">
                 <div class="form-row form-group">
                     <div class="col-sm-6">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="firstname">First name{{ requiredstar }}</label>
@@ -264,6 +267,9 @@
 
 
             {% elsif item.name == 'tasting' %}
+
+<input type="reset" value="This is a reset button">
+
             <div><h3> Taster's Info </h3></div>
                 <div class="form-row form-group"> 
                     <div class="col-sm-6">
@@ -485,26 +491,26 @@ Filter material if different than
                                            <div><h4> Summery </h4></div>
 
                         <div class="col-sm-2">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="tasteRate">Taste: Weak 1-10 Strong {{ requiredstar }}</label>
-                            <input type="{{ numbers }}" name="tasteRate" id="tasteRate" class="form-control" {% if pageform.placeholders == true %}placeholder="Taste: Weak 1-10 Strong{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="flavRate">Flavor{{ requiredstar }}</label>
+                            <input type="numbers" name="flavRate" id="flavRate" class="form-control"placeholder="1-10{{ requiredstar }}">
                         </div>
                         <div class="col-sm-2">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aromaRate">Aroma: Mild 1-10 Powerful {{ requiredstar }}</label>
-                            <input type="{{ numbers }}" name="aromaRate" id="aromaRate" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma: Mild 1-10 Powerful{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aromaRate">Aroma{{ requiredstar }}</label>
+                            <input type="numbers" name="aromaRate" id="aromaRate" class="form-control" placeholder="1-10{{ requiredstar }}">
                         </div>
                          
                         <div class="col-sm-2">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="bodyRate">Body: Thin 1-10 Thick {{ requiredstar }}</label>
-                            <input type="{{ numbers }}" name="bodyRate" id="bodyRate" class="form-control" {% if pageform.placeholders == true %}placeholder="Body: Thin 1-10 Thick{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="bodyRate">Body {{ requiredstar }}</label>
+                            <input type="numbers" name="bodyRate" id="bodyRate" class="form-control" placeholder="1-10 {{ requiredstar }}">
                         </div>                        
                         <div class="col-sm-2">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="astrRate">Astringency: Lite 1-10 Brisk {{ requiredstar }}</label>
-                            <input type="{{ numbers }}" name="astrRate" id="astrRate" class="form-control" {% if pageform.placeholders == true %}placeholder="Astringency: Lite 1-10 Brisk{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="astrRate">Astringency {{ requiredstar }}</label>
+                            <input type="numbers" name="astrRate" id="astrRate" class="form-control" placeholder="1-10 {{ requiredstar }}">
                         </div>                        
                                         
                         <div class="col-sm-2">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="bitterRate">Bitter: Mellow 1-10 Sharp {{ requiredstar }}</label>
-                            <input type="{{ numbers }}" name="bitterRate" id="bitterRate" class="form-control" {% if pageform.placeholders == true %}placeholder="Bitter: Mellow 1-10 Sharp{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="bitterRate">Bitterness {{ requiredstar }}</label>
+                            <input type="numbers" min="1" max="10" step=".5" name="bitterRate" id="bitterRate" class="form-control" placeholder="1-10{{ requiredstar }}" >
                         </div>                        
                 </div>
 
