@@ -270,7 +270,7 @@
                             <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
                     </div>
                 </div>
-                <div><h3> Tea's Info </h3></div>
+                <div><h3> leaf's Info </h3></div>
                     <div class="form-row form-group"> 
                         <div class="col-sm-8">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="productName">Product Name{{ requiredstar }}</label>
@@ -318,10 +318,10 @@
                             <input type="numbers" name="waterTemp" id="waterTemp" class="form-control" {% if pageform.placeholders == true %}placeholder="Water temp{{ requiredstar }}"{% endif %} >
                         </div>   
                                                 <div class="col-sm-3">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="grams">tea <select class="custom-select custom-select-sm">
-  <option value="price-g">grams</option>
-  <option value="price-tsp">teaspoons</option>{{ requiredstar }}</label>
-                            <input type="numbers" name="grams" id="grams" class="form-control" {% if pageform.placeholders == true %}placeholder="Grams of tea{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="much-leaf">How much leaf? <select class="custom-select custom-select-sm">
+  <option value="much-leaf-g">grams</option>
+  <option value="much-leaf-tsp">leafspoons</option>{{ requiredstar }}</label>
+                            <input type="numbers" name="much-leaf" id="much-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="How much leaf?{{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="preparation">Preparation{{ requiredstar }}</label>
@@ -332,31 +332,39 @@
                                            <div><h4> Tea Description </h4></div>
                     <div class="form-row form-group"> 
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-dry">Appearance of dry leaf{{ requiredstar }}</label>
-                            <input type="textarea" name="appearance-dry" id="appearance-dry" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of dry tea{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-dry-leaf">Appearance of dry leaf{{ requiredstar }}</label>
+                            <input type="textarea" name="appearance-dry-leaf" id="appearance-dry-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of dry leaf{{ requiredstar }}"{% endif %} >
                         </div>
-                                                <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aroma-dry">Aroma of dry leaf{{ requiredstar }}</label>
-                            <input type="textarea" name="aroma-dry" id="aroma-dry" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma of dry tea{{ requiredstar }}"{% endif %} >
+                        <div class="custom-file">
+                          <input type="file" class="custom-file-input" id="pic-appearance-dry-leaf">
+                          <label class="custom-file-label" for="customFile">Picture of dry leaf</label>
                         </div>
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-wet">Appearance of wet leaf and liquid{{ requiredstar }}</label>
-                            <input type="textarea" name="appearance-wet" id="appearance-wet" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of wet tea{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aroma-dry-leaf">Aroma of dry leaf{{ requiredstar }}</label>
+                            <input type="textarea" name="aroma-dry-leaf" id="aroma-dry-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma of dry leaf{{ requiredstar }}"{% endif %} >
+                        </div>
+                        <div class="col-sm-12">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-wet-leaf">Appearance of wet leaf{{ requiredstar }}</label>
+                            <input type="textarea" name="appearance-wet-leaf" id="appearance-wet-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of wet leaf{ requiredstar }}"{% endif %} >
+                        </div>
+                        <div class="col-sm-12">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-brew">Appearance of brew{{ requiredstar }}</label>
+                            <input type="textarea" name="appearance-brew" id="appearance-brew" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of brew{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aroma-wet-leaf">Aroma of wet leaf{{ requiredstar }}</label>
                             <input type="textarea" name="aroma-wet-leaf" id="aroma-wet-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma of wet leaf{{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aroma-wet-liquid">Aroma of wet liquid{{ requiredstar }}</label>
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aroma-wet-liquid">Aroma of brew{{ requiredstar }}</label>
                             <input type="textarea" name="aroma-wet-liquid" id="aroma-wet-liquid" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma of wet liquid{{ requiredstar }}"{% endif %} >
                         </div>                        
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="taste">Flavor of first brew{{ requiredstar }}</label>
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="flavor">Flavor of brew{{ requiredstar }}</label>
                             <input type="textarea" name="flavor" id="flavor" class="form-control" {% if pageform.placeholders == true %}placeholder="Flavor of first brew{{ requiredstar }}"{% endif %} >
                         </div>  
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="mouthfeel">Mouthfeel of First brew{{ requiredstar }}</label>
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="mouthfeel">Mouthfeel of brew{{ requiredstar }}</label>
                             <input type="textarea" name="mouthfeel" id="mouthfeel" class="form-control" {% if pageform.placeholders == true %}placeholder="Mouthfeel of First brew {{ requiredstar }}"{% endif %} >
                         </div>  
                                             </div>
@@ -364,12 +372,12 @@
                                            <div><h4> Later Brews </h4></div>
                     <div class="form-row form-group"> 
                         <div class="col-sm-12">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-2nd-leaf">Appearance of second leaf{{ requiredstar }}</label>
-                            <input type="textarea" name="appearance-2nd-leaf" id="appearance-2nd-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of second brew{{ requiredstar }}"{% endif %} >
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-2nd-leaf">Appearance of second brewed leaf{{ requiredstar }}</label>
+                            <input type="textarea" name="appearance-2nd-leaf" id="appearance-2nd-leaf" class="form-control" {% if pageform.placeholders == true %}placeholder="Appearance of second brewed leaf{{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="aroma-2nd">Aroma of second brewed leaf{{ requiredstar }}</label>
-                            <input type="textarea" name="aroma-2nd" id="aroma-2nd" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma of 2nd brew{{ requiredstar }}"{% endif %} >
+                            <input type="textarea" name="aroma-2nd" id="aroma-2nd" class="form-control" {% if pageform.placeholders == true %}placeholder="Aroma of second brew{{ requiredstar }}"{% endif %} >
                         </div>
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-2nd-brew">Appearance of second brew{{ requiredstar }}</label>
