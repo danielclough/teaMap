@@ -68,7 +68,7 @@
 
         {% else %}
             {% if item.name == 'business' %}
-            <input type="reset" value="This is a reset button">
+            <input type="reset" value="Reset form">
                 <div class="form-row form-group">
                     <div class="col-sm-10">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
@@ -125,7 +125,7 @@
                 </div>
 
         {% elsif item.name == 'sample' %}
-        <input type="reset" value="This is a reset button">
+        <input type="reset" value="Reset form">
                     <div class="col-sm-10">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="businessname">Business name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="businessname" id="businessname" class="form-control" {% if pageform.placeholders == true %}placeholder="Business name{{ requiredstar }}"{% endif %} >
@@ -213,7 +213,7 @@
 
 
             {% elsif item.name == 'taster' %}
-            <input type="reset" value="This is a reset button">
+            <input type="reset" value="Reset form">
                 <div class="form-row form-group">
                     <div class="col-sm-6">
                         <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="firstname">First name{{ requiredstar }}</label>
@@ -268,22 +268,22 @@
 
             {% elsif item.name == 'tasting' %}
 
-<input type="reset" value="This is a reset button">
+<input type="reset" value="Reset form">
 
-<div class="collapsible"><h4> Taster's Info </h4></div>
+<div class="collapsible"><h5> Taster's Info </h5></div>
 <div class="content">
                 <div class="form-row form-group"> 
-                    <div class="col-sm-6">
-                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }} <a href="/taster/intake/">Register Here</a></label>
-                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
-                    </div>
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="name">Name{{ requiredstar }}</label>
                             <input type="{{ item.input_type }}" name="name" id="name" class="form-control" {% if pageform.placeholders == true %}placeholder="Name{{ requiredstar }}"{% endif %} >
                     </div>
+                    <div class="col-sm-6">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }} <a href="/taster/intake/">Register Here</a></label>
+                            <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
+                    </div>
                 </div>
                                             </div>
-<div class="collapsible"><h4> Leaf's Info </h4></div>
+<div class="collapsible"><h5> Leaf's Info </h5></div>
 <div class="content">
 
                     <div class="form-row form-group"> 
@@ -311,7 +311,7 @@
                     </div>
 
                                             </div>
-<div class="collapsible"><h4> Variables </h4></div>
+<div class="collapsible"><h5> Variables </h5></div>
 <div class="content">
                     <div class="form-row form-group"> 
                         <div class="col-sm-6">
@@ -409,7 +409,7 @@ Filter material if different than
                                             </div>
 
                                             </div>
-<div class="collapsible"><h4> Description </h4></div>
+<div class="collapsible"><h5> Description </h5></div>
 <div class="content">
                     <div class="form-row form-group"> 
                         <div class="col-sm-12">
@@ -450,7 +450,7 @@ Filter material if different than
                         </div>                          
                     </div>
                 </div>
-<div class="collapsible"><h4> Later Brews </h4></div>
+<div class="collapsible"><h5> Later Brews </h5></div>
 <div class="content">
                                            
                     <div class="form-row form-group"> 
@@ -501,7 +501,7 @@ Filter material if different than
                     </div>
                 </div>
                     <div class="form-row form-group"> 
-                                           <div><h4> Summery </h4></div>
+                                           <div><h6> Summery </h6></div>
 
                         <div class="col-sm-2">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="flavRate">Flavor{{ requiredstar }}</label>
