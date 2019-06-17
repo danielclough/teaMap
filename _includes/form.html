@@ -270,14 +270,22 @@
 
 <input type="reset" value="This is a reset button">
 
-            <div><h3> Taster's Info </h3></div>
+<div ><h4> Taster's Info </h4></div>
+<div >
                 <div class="form-row form-group"> 
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }} <a href="/taster/intake/">Register Here</a></label>
                             <input type="{{ item.input_type }}" name="email" id="email" class="form-control" {% if pageform.placeholders == true %}placeholder="Email{{ requiredstar }}"{% endif %} >
                     </div>
+                    <div class="col-sm-6">
+                            <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="name">Name{{ requiredstar }}</label>
+                            <input type="{{ item.input_type }}" name="name" id="name" class="form-control" {% if pageform.placeholders == true %}placeholder="Name{{ requiredstar }}"{% endif %} >
+                    </div>
                 </div>
-                <div><h3> leaf's Info </h3></div>
+                                            </div>
+<div ><h4> Leaf's Info </h4></div>
+<div >
+
                     <div class="form-row form-group"> 
                         <div class="col-sm-8">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="productName">Product Name{{ requiredstar }}</label>
@@ -302,7 +310,9 @@
 
                     </div>
 
-                                           <div><h4> Variables </h4></div>
+                                            </div>
+<div><h4> Variables </h4></div>
+<div>
                     <div class="form-row form-group"> 
                         <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="brewVes">Brewing vessel{{ requiredstar }}</label>
@@ -398,7 +408,9 @@ Filter material if different than
                         </div>
                                             </div>
 
-                                           <div><h4> Tea Description </h4></div>
+                                            </div>
+<div class="collapsible"><h4> Description </h4></div>
+<div class="content">
                     <div class="form-row form-group"> 
                         <div class="col-sm-12">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="appearance-dry-leaf">Appearance of dry leaf{{ requiredstar }}</label>
@@ -436,8 +448,9 @@ Filter material if different than
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="cupFragrance">Cup fragrance{{ requiredstar }}</label>
                             <textarea rows="1" name="cupFragrance" id="cupFragrance" class="form-control" {% if pageform.placeholders == true %}placeholder="Cup fragrance{{ requiredstar }}"{% endif %} ></textarea>
                         </div>                          
-                                            </div>
-<div class="collapsible"><h4> Later Brews - Click to open </h4></div>
+                    </div>
+                </div>
+<div class="collapsible"><h4> Later Brews </h4></div>
 <div class="content">
                                            
                     <div class="form-row form-group"> 
