@@ -270,8 +270,8 @@
 
 <input type="reset" value="This is a reset button">
 
-<div ><h4> Taster's Info </h4></div>
-<div >
+<div class="collapsible"><h4> Taster's Info </h4></div>
+<div class="content">
                 <div class="form-row form-group"> 
                     <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="email">Email{{ requiredstar }} <a href="/taster/intake/">Register Here</a></label>
@@ -283,8 +283,8 @@
                     </div>
                 </div>
                                             </div>
-<div ><h4> Leaf's Info </h4></div>
-<div >
+<div class="collapsible"><h4> Leaf's Info </h4></div>
+<div class="content">
 
                     <div class="form-row form-group"> 
                         <div class="col-sm-8">
@@ -311,8 +311,8 @@
                     </div>
 
                                             </div>
-<div><h4> Variables </h4></div>
-<div>
+<div class="collapsible"><h4> Variables </h4></div>
+<div class="content">
                     <div class="form-row form-group"> 
                         <div class="col-sm-6">
                             <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="brewVes">Brewing vessel{{ requiredstar }}</label>
