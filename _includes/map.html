@@ -1,0 +1,29 @@
+
+<div class="map-container">
+ <div id="map"></div>
+</div>
+
+
+<script>
+
+function initMap() {
+
+  var options = {
+      zoom: 10,
+      center: {lat: 36.109, lng: -115.175},
+      streetViewControl: false,        
+  }
+
+  var map;
+    map = new google.maps.Map(document.getElementById('map'), options);
+
+  map.data.loadGeoJson('assets/harney-copyright/harneyLV.json');
+
+
+
+}
+
+</script>
+      
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsO_pA3gycj4P1a_MF_lurzO3lg77vYDQ&callback=initMap"></script>
+ 

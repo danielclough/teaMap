@@ -1,0 +1,3091 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 116.479572, 39.957078 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.957078,116.479572",
+      "Location" : {
+        "Latitude" : "39.957078",
+        "Longitude" : "116.479572"
+      },
+      "Published" : "2012-09-18T11:47:45Z",
+      "Title" : "39.957078,116.479572",
+      "Updated" : "2018-01-17T06:41:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.417484, 39.921886 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.921886,116.417484",
+      "Location" : {
+        "Latitude" : "39.921886",
+        "Longitude" : "116.417484"
+      },
+      "Published" : "2012-09-18T07:42:11Z",
+      "Title" : "39.921886,116.417484",
+      "Updated" : "2018-01-17T06:41:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 118.112050, 25.121225 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=25.121225,118.112050",
+      "Location" : {
+        "Latitude" : "25.121225",
+        "Longitude" : "118.112050"
+      },
+      "Published" : "2017-03-11T17:47:20Z",
+      "Title" : "25.121225,118.112050",
+      "Updated" : "2018-01-17T06:40:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 103.856196, 36.047423 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=36.047423,103.856196",
+      "Location" : {
+        "Latitude" : "36.047423",
+        "Longitude" : "103.856196"
+      },
+      "Published" : "2011-01-22T03:55:43Z",
+      "Title" : "36.047423,103.856196",
+      "Updated" : "2018-01-17T06:40:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.403065, 39.936987 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.936987,116.403065",
+      "Location" : {
+        "Latitude" : "39.936987",
+        "Longitude" : "116.403065"
+      },
+      "Published" : "2012-09-22T08:20:36Z",
+      "Title" : "39.936987,116.403065",
+      "Updated" : "2018-01-17T06:40:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.1204708, 36.0579245 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18121694222308794245",
+      "Location" : {
+        "Address" : "7271 South Eastern Avenue, Las Vegas, NV 89119, United States",
+        "Business Name" : "Wells Fargo Bank",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.0579245",
+          "Longitude" : "-115.1204708"
+        }
+      },
+      "Published" : "2017-11-21T23:49:00Z",
+      "Title" : "Wells Fargo Bank",
+      "Updated" : "2017-11-21T23:49:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.016059, 39.261561 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Nevada+City,+CA+95959&ftid=0x809b7a7134408b49:0x37bfaa9a5ce0c3cd",
+      "Location" : {
+        "Latitude" : "39.261561",
+        "Longitude" : "-121.016059"
+      },
+      "Published" : "2017-07-19T01:23:26Z",
+      "Title" : "Nevada City, California",
+      "Updated" : "2017-07-19T01:23:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.404908, 37.753729 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.753729,-122.404908",
+      "Location" : {
+        "Latitude" : "37.753729",
+        "Longitude" : "-122.404908"
+      },
+      "Published" : "2016-09-07T18:43:43Z",
+      "Title" : "37.753729,-122.404908",
+      "Updated" : "2017-03-16T05:23:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.087761, 36.032493 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2235+Ramsgate+Dr,+Henderson,+NV+89074&ftid=0x80c8d1d0d5e33535:0xa4c6f0da49a0fc35",
+      "Location" : {
+        "Latitude" : "36.032493",
+        "Longitude" : "-115.087761"
+      },
+      "Published" : "2017-03-15T01:39:01Z",
+      "Title" : "2235 Ramsgate Dr, Henderson, NV 89074",
+      "Updated" : "2017-03-15T01:39:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 117.803991, 24.996619 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Da+Shi+Keng,+Anxi,+Quanzhou,+Fujian,+China&ftid=0x34145119a62d4b39:0x4dd4cab75de1c750",
+      "Location" : {
+        "Latitude" : "24.996619",
+        "Longitude" : "117.803991"
+      },
+      "Published" : "2017-03-11T17:46:25Z",
+      "Title" : "Da Shi Keng, Anxi, Quanzhou, Fujian, China",
+      "Updated" : "2017-03-11T17:46:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.431758, 37.773564 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=759+Oak+St,+San+Francisco,+CA+94117&ftid=0x808580a42513b299:0x9ab639e52750eee4",
+      "Location" : {
+        "Latitude" : "37.773564",
+        "Longitude" : "-122.431758"
+      },
+      "Published" : "2017-02-10T14:27:43Z",
+      "Title" : "759 Oak St, San Francisco, CA 94117",
+      "Updated" : "2017-02-10T14:27:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.413154, 37.776731 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1235+Mission+St,+San+Francisco,+CA+94103&ftid=0x8085809cd14e5ec9:0x779dee98da968e69",
+      "Location" : {
+        "Latitude" : "37.776731",
+        "Longitude" : "-122.413154"
+      },
+      "Published" : "2017-01-24T21:36:35Z",
+      "Title" : "1235 Mission St, San Francisco, CA 94103",
+      "Updated" : "2017-01-24T21:36:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.295170, 37.840846 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=6007+Christie+Ave,+Emeryville,+CA+94608&ftid=0x80857e5b0cb37a1f:0xd7eaed20b643d7da",
+      "Location" : {
+        "Latitude" : "37.840846",
+        "Longitude" : "-122.295170"
+      },
+      "Published" : "2017-01-24T19:45:46Z",
+      "Title" : "6007 Christie Ave, Emeryville, CA 94608",
+      "Updated" : "2017-01-24T19:45:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.7048420, 23.9064100 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6320424545770551667",
+      "Location" : {
+        "Address" : "China, 广东省潮州市潮安县",
+        "Business Name" : "Phoenix Mountain Scenic Area",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "23.9064100",
+          "Longitude" : "116.7048420"
+        }
+      },
+      "Published" : "2017-01-18T20:20:59Z",
+      "Title" : "Phoenix Mountain Scenic Area",
+      "Updated" : "2017-01-18T20:20:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.1492270, 36.1060060 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8685560360387233871",
+      "Location" : {
+        "Address" : "700 East Naples Drive #110, Las Vegas, NV 89119, United States",
+        "Business Name" : "The Cannabis Chapel",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.1060060",
+          "Longitude" : "-115.1492270"
+        }
+      },
+      "Published" : "2017-01-16T21:13:55Z",
+      "Title" : "The Cannabis Chapel",
+      "Updated" : "2017-01-16T21:13:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.052932, 36.042024 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1651+American+Pacific+Dr,+Henderson,+NV+89074&ftid=0x80c8d1aea8d951fb:0xb8b9d587ab498a44",
+      "Location" : {
+        "Latitude" : "36.042024",
+        "Longitude" : "-115.052932"
+      },
+      "Published" : "2017-01-16T20:36:44Z",
+      "Title" : "1651 American Pacific Drive, Henderson, NV 89074",
+      "Updated" : "2017-01-16T20:36:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -114.713765, 35.965615 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arizona+Hot+Springs,+Willow+Beach,+AZ+86445&ftid=0x80cecd65b3249cfd:0xba35f44c943e8957",
+      "Location" : {
+        "Latitude" : "35.965615",
+        "Longitude" : "-114.713765"
+      },
+      "Published" : "2017-01-15T08:35:33Z",
+      "Title" : "Arizona Hot Springs, Willow Beach, AZ 86445",
+      "Updated" : "2017-01-15T08:35:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -114.7740093, 36.0099782 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14338423660614034081",
+      "Location" : {
+        "Address" : "601 Great Basin Highway, Boulder City, NV 89005, United States",
+        "Business Name" : "Gold Strike Hot Springs Trail Head",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.0099782",
+          "Longitude" : "-114.7740093"
+        }
+      },
+      "Published" : "2017-01-15T08:34:37Z",
+      "Title" : "Gold Strike Hot Springs Trail Head",
+      "Updated" : "2017-01-15T08:34:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.222628, 36.135179 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=5910+Coley+Ave,+Las+Vegas,+NV+89146&ftid=0x80c8c1325bf8becf:0x496dbbb4d8aa6b7e",
+      "Location" : {
+        "Latitude" : "36.135179",
+        "Longitude" : "-115.222628"
+      },
+      "Published" : "2017-01-12T20:52:07Z",
+      "Title" : "5910 Coley Avenue, Las Vegas, NV 89146",
+      "Updated" : "2017-01-12T20:52:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.6882319, 38.4345916 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15864172793475865103",
+      "Location" : {
+        "Address" : "1501 Farmers Lane, Santa Rosa, CA 95405, United States",
+        "Business Name" : "AAA Santa Rosa Farmers",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.4345916",
+          "Longitude" : "-122.6882319"
+        }
+      },
+      "Published" : "2017-01-03T20:13:55Z",
+      "Title" : "AAA Santa Rosa Farmers",
+      "Updated" : "2017-01-03T20:13:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.285247, 37.831316 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Emeryville,+CA&ftid=0x80857e14ea1f8eb3:0x481d1831a8b07107",
+      "Location" : {
+        "Latitude" : "37.831316",
+        "Longitude" : "-122.285247"
+      },
+      "Published" : "2016-12-31T02:43:57Z",
+      "Title" : "Emeryville, CA",
+      "Updated" : "2016-12-31T02:43:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.689988, 36.251515 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Sykes+Hot+Springs,+California&ftid=0x808d86f68e74396d:0x25fd8c923089e234",
+      "Location" : {
+        "Latitude" : "36.251515",
+        "Longitude" : "-121.689988"
+      },
+      "Published" : "2016-12-29T00:06:38Z",
+      "Title" : "Sykes Hot Springs",
+      "Updated" : "2016-12-29T00:06:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -120.7029931, 35.1807218 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16156615180210905267",
+      "Location" : {
+        "Address" : "250 Avila Beach Drive, San Luis Obispo, CA 93405, United States",
+        "Business Name" : "Avila Hot Springs",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "35.1807218",
+          "Longitude" : "-120.7029931"
+        }
+      },
+      "Published" : "2016-12-29T00:05:03Z",
+      "Title" : "Avila Hot Springs",
+      "Updated" : "2016-12-29T00:05:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.8275970, 38.5640910 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13694092256280486042",
+      "Location" : {
+        "Address" : "10510 Old Redwood Highway, Windsor, CA 95492, United States",
+        "Business Name" : "Aaction Rents",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.5640910",
+          "Longitude" : "-122.8275970"
+        }
+      },
+      "Published" : "2016-10-12T07:11:35Z",
+      "Title" : "Aaction Rents",
+      "Updated" : "2016-10-12T07:11:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -123.315157, 38.719846 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3+Point+Rd,+Annapolis,+CA+95412&ftid=0x80814ce8ae59b5d7:0x9373e1ba91537cc0",
+      "Location" : {
+        "Latitude" : "38.719846",
+        "Longitude" : "-123.315157"
+      },
+      "Published" : "2016-10-10T19:44:12Z",
+      "Title" : "3 Point Road, Annapolis, CA 95412",
+      "Updated" : "2016-10-10T19:44:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -123.3408691, 38.7202817 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11470949338769019404",
+      "Location" : {
+        "Address" : "26055 Soda Springs Road, Annapolis, CA 95412, United States",
+        "Business Name" : "Annapolis Winery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.7202817",
+          "Longitude" : "-123.3408691"
+        }
+      },
+      "Published" : "2016-10-04T04:54:45Z",
+      "Title" : "Annapolis Winery",
+      "Updated" : "2016-10-04T04:54:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.212335, 37.811820 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1440+Leimert+Blvd,+Oakland,+CA+94602&ftid=0x808f87a38860e771:0x6e50b81cd200cfcf",
+      "Location" : {
+        "Latitude" : "37.811820",
+        "Longitude" : "-122.212335"
+      },
+      "Published" : "2016-08-16T20:16:22Z",
+      "Title" : "1440 Leimert Boulevard, Oakland, CA 94602",
+      "Updated" : "2016-08-16T20:16:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 110.482084, 29.046809 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tianmen+Mountain,+Yongding,+Zhangjiajie,+Hunan,+China&ftid=0x369bb0f90d81b9cf:0x45af223bd0ba27ae",
+      "Location" : {
+        "Latitude" : "29.046809",
+        "Longitude" : "110.482084"
+      },
+      "Published" : "2016-08-15T04:31:22Z",
+      "Title" : "Tianmen Mountain",
+      "Updated" : "2016-08-15T04:31:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.3011573, 37.8702010 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8906653674286000149",
+      "Location" : {
+        "Address" : "1780 Fourth Street, Berkeley, CA 94710, United States",
+        "Business Name" : "Teance Fine Teas",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8702010",
+          "Longitude" : "-122.3011573"
+        }
+      },
+      "Published" : "2016-08-13T03:50:24Z",
+      "Title" : "Teance Fine Teas",
+      "Updated" : "2016-08-13T03:50:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.994613, 38.192358 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pinecrest,+CA+95364&ftid=0x809748168929d5fb:0x18882a0478ea77c9",
+      "Location" : {
+        "Latitude" : "38.192358",
+        "Longitude" : "-119.994613"
+      },
+      "Published" : "2016-06-03T01:35:57Z",
+      "Title" : "Pinecrest, CA",
+      "Updated" : "2016-06-03T01:35:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.8438595, 38.6960394 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17759308741529791626",
+      "Location" : {
+        "Address" : "3415 Hot Springs Road, Markleeville, CA 96120, United States",
+        "Business Name" : "Grover Hot Springs State Park",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.6960394",
+          "Longitude" : "-119.8438595"
+        }
+      },
+      "Published" : "2016-06-03T01:35:49Z",
+      "Title" : "Grover Hot Springs State Park",
+      "Updated" : "2016-06-03T01:35:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.747393, 38.484956 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3867+Coffey+Ln,+Santa+Rosa,+CA+95403&ftid=0x808438c20bc906a7:0xf9a25ceea8aeac7c",
+      "Location" : {
+        "Latitude" : "38.484956",
+        "Longitude" : "-122.747393"
+      },
+      "Published" : "2016-05-20T21:32:15Z",
+      "Title" : "3867 Coffey Lane, Santa Rosa, CA 95403",
+      "Updated" : "2016-05-20T21:32:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.408426, 37.783288 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=925+Market+St,+San+Francisco,+CA+94103&ftid=0x80858085c7eba731:0xec444bf35b212e82",
+      "Location" : {
+        "Latitude" : "37.783288",
+        "Longitude" : "-122.408426"
+      },
+      "Published" : "2016-05-11T21:29:33Z",
+      "Title" : "925 Market Street, San Francisco, CA 94103",
+      "Updated" : "2016-05-11T21:29:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.277456, 37.839279 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=976+55th+St,+Oakland,+CA+94608&ftid=0x80857e6dfccd6ae5:0xf17d298baaac95ad",
+      "Location" : {
+        "Latitude" : "37.839279",
+        "Longitude" : "-122.277456"
+      },
+      "Published" : "2016-05-01T02:51:27Z",
+      "Title" : "976 55th Street, Oakland, CA 94608",
+      "Updated" : "2016-05-01T02:51:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.297379, 37.806730 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1561+8th+St,+Oakland,+CA+94607&ftid=0x808f809ce4e0bc37:0x73d20c5d57001f1b",
+      "Location" : {
+        "Latitude" : "37.806730",
+        "Longitude" : "-122.297379"
+      },
+      "Published" : "2016-04-29T01:35:51Z",
+      "Title" : "1561 8th Street, Oakland, CA 94607",
+      "Updated" : "2016-04-29T01:35:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4188369, 37.7638852 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6911173369884899419",
+      "Location" : {
+        "Address" : "180 Capp Street, San Francisco, CA 94110, United States",
+        "Business Name" : "The Secret Alley",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7638852",
+          "Longitude" : "-122.4188369"
+        }
+      },
+      "Published" : "2016-04-28T20:01:17Z",
+      "Title" : "Secret Alley",
+      "Updated" : "2016-04-28T20:01:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4109330, 37.7877010 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15303669616845176358",
+      "Location" : {
+        "Address" : "555 Post Street, San Francisco, CA 94102, United States",
+        "Business Name" : "Make School",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7877010",
+          "Longitude" : "-122.4109330"
+        }
+      },
+      "Published" : "2016-04-26T23:12:47Z",
+      "Title" : "Make School",
+      "Updated" : "2016-04-26T23:12:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.298078, 37.892331 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1131+Washington+Ave,+Albany,+CA+94706&ftid=0x80857931c9eae9c7:0x5bdbe75da9884d04",
+      "Location" : {
+        "Latitude" : "37.892331",
+        "Longitude" : "-122.298078"
+      },
+      "Published" : "2016-04-25T02:58:48Z",
+      "Title" : "1131 Washington Avenue, Albany, CA 94706",
+      "Updated" : "2016-04-25T02:58:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.447254, 37.764781 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=924+Clayton+St,+San+Francisco,+CA+94117&ftid=0x8085875536334c81:0x5eeefc00fa133aa0",
+      "Location" : {
+        "Latitude" : "37.764781",
+        "Longitude" : "-122.447254"
+      },
+      "Published" : "2016-04-21T16:06:26Z",
+      "Title" : "924 Clayton Street, San Francisco, CA 94117",
+      "Updated" : "2016-04-21T16:06:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.8818684, 34.5543562 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9303485029057790304",
+      "Location" : {
+        "Address" : "4600 California 154, Santa Barbara, CA 93105, United States",
+        "Business Name" : "Live Oak Camp",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.5543562",
+          "Longitude" : "-119.8818684"
+        }
+      },
+      "Published" : "2016-04-06T22:54:20Z",
+      "Title" : "Live Oak Camp",
+      "Updated" : "2016-04-06T22:54:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.445503, 37.764851 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=956+Ashbury+St,+San+Francisco,+CA+94117&ftid=0x808580aabc523745:0x7313df7f88bba589",
+      "Location" : {
+        "Latitude" : "37.764851",
+        "Longitude" : "-122.445503"
+      },
+      "Published" : "2016-04-02T18:52:42Z",
+      "Title" : "956 Ashbury Street, San Francisco, CA 94117",
+      "Updated" : "2016-04-02T18:52:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.442500, 37.776523 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1554+Fulton+St,+San+Francisco,+CA+94117&ftid=0x808580b249dc0335:0xbbac77bf526e3cef",
+      "Location" : {
+        "Latitude" : "37.776523",
+        "Longitude" : "-122.442500"
+      },
+      "Published" : "2016-04-01T18:19:21Z",
+      "Title" : "1554 Fulton Street, San Francisco, CA 94117",
+      "Updated" : "2016-04-01T18:19:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4225409, 37.7768268 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2171569399604750487",
+      "Location" : {
+        "Address" : "377 Hayes Street, San Francisco, CA 94102, United States",
+        "Business Name" : "Sugar Lounge",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7768268",
+          "Longitude" : "-122.4225409"
+        }
+      },
+      "Published" : "2016-04-01T06:12:11Z",
+      "Title" : "Sugar Lounge",
+      "Updated" : "2016-04-01T06:12:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.209261, 37.790884 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2751+Humboldt+Ave,+Oakland,+CA+94602&ftid=0x808f86502ddf216d:0x1cd4578d93754201",
+      "Location" : {
+        "Latitude" : "37.790884",
+        "Longitude" : "-122.209261"
+      },
+      "Published" : "2016-02-29T19:39:24Z",
+      "Title" : "2751 Humboldt Avenue, Oakland, CA 94602",
+      "Updated" : "2016-02-29T19:39:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.1646555, 34.5601645 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3888787379112563529",
+      "Location" : {
+        "Address" : "Rose Valley Road, Ojai, CA 93023, United States",
+        "Business Name" : "Piedra Blanca Trailhead",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.5601645",
+          "Longitude" : "-119.1646555"
+        }
+      },
+      "Published" : "2016-02-15T18:28:12Z",
+      "Title" : "Piedra Blanca Trailhead",
+      "Updated" : "2016-02-15T18:28:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.9924327, 34.5825539 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16689307925357711333",
+      "Location" : {
+        "Address" : "Sespe Hot Springs Trail, Maricopa, CA 93252, United States",
+        "Business Name" : "Sespe Camp",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.5825539",
+          "Longitude" : "-118.9924327"
+        }
+      },
+      "Published" : "2016-02-15T18:27:54Z",
+      "Title" : "Sespe Camp",
+      "Updated" : "2016-02-15T18:27:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -79.447524, 45.031863 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lake+Muskoka,+Ontario,+Canada&ftid=0x4d2a8be67bed8b2b:0xa3ff336db476576a",
+      "Location" : {
+        "Latitude" : "45.031863",
+        "Longitude" : "-79.447524"
+      },
+      "Published" : "2016-02-14T10:04:56Z",
+      "Title" : "Lake Muskoka",
+      "Updated" : "2016-02-14T10:04:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -79.575821, 44.901642 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Muskoka,+ON+P0E,+Canada&ftid=0x4d2a93639a331709:0xb21433871887c1fc",
+      "Location" : {
+        "Latitude" : "44.901642",
+        "Longitude" : "-79.575821"
+      },
+      "Published" : "2016-02-14T01:44:05Z",
+      "Title" : "Muskoka, ON, Canada",
+      "Updated" : "2016-02-14T01:44:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.429720, 37.773440 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.77344,-122.42971999999997",
+      "Location" : {
+        "Latitude" : "37.773440",
+        "Longitude" : "-122.429720"
+      },
+      "Published" : "2016-02-01T02:26:13Z",
+      "Title" : "37.77344,-122.42971999999997",
+      "Updated" : "2016-02-01T02:26:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.469182, 37.764065 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1038+Irving+St,+San+Francisco,+CA+94122&ftid=0x8085875d7f00d9a9:0x66c6bf37a9fad49b",
+      "Location" : {
+        "Latitude" : "37.764065",
+        "Longitude" : "-122.469182"
+      },
+      "Published" : "2016-01-16T17:49:51Z",
+      "Title" : "1038 Irving Street, San Francisco, CA 94122",
+      "Updated" : "2016-01-16T17:49:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.5038779, 37.7363439 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7760101296952638518",
+      "Location" : {
+        "Address" : "2690 46th Avenue, San Francisco, CA 94116, United States",
+        "Business Name" : "Ocean Park Motel",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7363439",
+          "Longitude" : "-122.5038779"
+        }
+      },
+      "Published" : "2015-12-24T05:50:04Z",
+      "Title" : "Ocean Park Motel",
+      "Updated" : "2015-12-24T05:50:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4140307, 37.7539841 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1298578676677372048",
+      "Location" : {
+        "Address" : "2701 Folsom Street, San Francisco, CA 94110, United States",
+        "Business Name" : "Against the Stream Buddhist Meditation Society - San Francisco",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7539841",
+          "Longitude" : "-122.4140307"
+        }
+      },
+      "Published" : "2015-12-11T16:48:50Z",
+      "Title" : "Against the Stream Buddhist Meditation Society - San Francisco",
+      "Updated" : "2015-12-11T16:48:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.929365, 40.926726 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Big+Bend+Rd,+Montgomery+Creek,+CA+96065&ftid=0x54cd9dda507606a3:0x189c54443b6ce146",
+      "Location" : {
+        "Latitude" : "40.926726",
+        "Longitude" : "-121.929365"
+      },
+      "Published" : "2015-12-05T21:54:45Z",
+      "Title" : "Big Bend Road, California",
+      "Updated" : "2015-12-05T21:54:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.335552, 34.105475 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=6665+Franklin+Ave+%238,+Los+Angeles,+CA+90028&ftid=0x80c2bf22bc190dad:0x4ccae58e65b026e0",
+      "Location" : {
+        "Latitude" : "34.105475",
+        "Longitude" : "-118.335552"
+      },
+      "Published" : "2015-12-04T01:33:43Z",
+      "Title" : "6665 Franklin Avenue #8, Los Angeles, CA 90028",
+      "Updated" : "2015-12-04T01:33:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.563146, 37.977002 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=398259303912328944",
+      "Location" : {
+        "Latitude" : "37.977002",
+        "Longitude" : "-122.563146"
+      },
+      "Published" : "2015-11-09T02:34:39Z",
+      "Title" : "Andronico's Community Markets",
+      "Updated" : "2015-11-09T02:34:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.1214135, 37.6297030 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18167002937106028232",
+      "Location" : {
+        "Address" : "3499 Breakwater Avenue, Hayward, CA 94545, United States",
+        "Business Name" : "Casa Maria Taqueria",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.6297030",
+          "Longitude" : "-122.1214135"
+        }
+      },
+      "Published" : "2015-10-25T02:40:45Z",
+      "Title" : "Casa Maria Taqueria",
+      "Updated" : "2015-10-25T02:40:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -123.0543080, 38.4539690 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16546431424956058830",
+      "Location" : {
+        "Address" : "25191 Main St, Duncans Mills, CA 95430, United States",
+        "Business Name" : "Mr. Trombly's Tea",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.4539690",
+          "Longitude" : "-123.0543080"
+        }
+      },
+      "Published" : "2015-10-06T05:25:15Z",
+      "Title" : "Mr. Trombly's Tea",
+      "Updated" : "2015-10-06T05:25:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.3365815, 39.9686333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3516015925850761011",
+      "Location" : {
+        "Address" : "118 Zhongguancun East Road, Haidian, Beijing, China",
+        "Business Name" : "Bayi Laoye",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.9686333",
+          "Longitude" : "116.3365815"
+        }
+      },
+      "Published" : "2015-09-28T20:03:50Z",
+      "Title" : "Bayi Laoye",
+      "Updated" : "2015-09-28T20:03:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.7954016, 38.5066427 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17374492627530191274",
+      "Location" : {
+        "Address" : "3580 Westwind Boulevard, Santa Rosa, CA 95403, United States",
+        "Business Name" : "Cali'co Hardwoods Inc",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.5066427",
+          "Longitude" : "-122.7954016"
+        }
+      },
+      "Published" : "2015-09-28T18:58:50Z",
+      "Title" : "Cali'co Hardwoods Inc",
+      "Updated" : "2015-09-28T18:58:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.7871578, 39.4688191 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15532243013961768206",
+      "Location" : {
+        "Address" : "6139 South Virginia Street, Reno, NV 89502, United States",
+        "Business Name" : "Whole Foods Market",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.4688191",
+          "Longitude" : "-119.7871578"
+        }
+      },
+      "Published" : "2015-09-08T22:48:44Z",
+      "Title" : "Whole Foods Market",
+      "Updated" : "2015-09-08T22:48:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.249132, 40.005997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Belden,+CA&ftid=0x809d18b14ced9c79:0x6e2cc4cced384d3",
+      "Location" : {
+        "Latitude" : "40.005997",
+        "Longitude" : "-121.249132"
+      },
+      "Published" : "2015-09-08T22:47:59Z",
+      "Title" : "Belden, CA",
+      "Updated" : "2015-09-08T22:47:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -120.3481673, 39.5754781 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12910934305082076895",
+      "Location" : {
+        "Address" : "521 Campbell Hot Springs Road, Sierraville, CA 96126, United States",
+        "Business Name" : "Sierra Hot Springs",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.5754781",
+          "Longitude" : "-120.3481673"
+        }
+      },
+      "Published" : "2015-09-08T22:46:01Z",
+      "Title" : "Sierra Hot Springs",
+      "Updated" : "2015-09-08T22:46:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.553462, 38.107503 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=10+Rudnick+Ave,+Novato,+CA+94945&ftid=0x8085bca6c615bb2d:0x9074ebe0d9256288",
+      "Location" : {
+        "Latitude" : "38.107503",
+        "Longitude" : "-122.553462"
+      },
+      "Published" : "2015-08-29T02:45:19Z",
+      "Title" : "10 Rudnick Avenue, Novato, CA 94945",
+      "Updated" : "2015-08-29T02:45:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.5528521, 38.0902746 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16742999565282903701",
+      "Location" : {
+        "Address" : "200 Vintage Way, Novato, CA 94945, United States",
+        "Business Name" : "Target",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.0902746",
+          "Longitude" : "-122.5528521"
+        }
+      },
+      "Published" : "2015-08-29T02:45:06Z",
+      "Title" : "Target",
+      "Updated" : "2015-08-29T02:45:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.259779, 37.817687 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=250+Fairmount+Ave,+Oakland,+CA+94611&ftid=0x808f875420968b07:0xbaa6e442725d1334",
+      "Location" : {
+        "Latitude" : "37.817687",
+        "Longitude" : "-122.259779"
+      },
+      "Published" : "2015-08-22T16:30:36Z",
+      "Title" : "250 Fairmount Avenue, Oakland, CA 94611",
+      "Updated" : "2015-08-22T16:30:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.203018, 40.788645 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Black+Rock+City,+NV&ftid=0x809fb834cedea63b:0xbeb0dbe188039187",
+      "Location" : {
+        "Latitude" : "40.788645",
+        "Longitude" : "-119.203018"
+      },
+      "Published" : "2015-08-19T21:29:18Z",
+      "Title" : "Black Rock City",
+      "Updated" : "2015-08-19T21:29:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -123.8053468, 39.4528175 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3390582198097548093",
+      "Location" : {
+        "Address" : "110 East Manzanita Street, Fort Bragg, CA 95437, United States",
+        "Business Name" : "Jack's Muffler Services",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "39.4528175",
+          "Longitude" : "-123.8053468"
+        }
+      },
+      "Published" : "2015-08-19T21:28:58Z",
+      "Title" : "Jack's Muffler Services",
+      "Updated" : "2015-08-19T21:28:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.273208, 37.865889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2325+McKinley+Ave+%2316,+Berkeley,+CA+94703&ftid=0x80857e9b18267ecb:0xd627e817f9a3e878",
+      "Location" : {
+        "Latitude" : "37.865889",
+        "Longitude" : "-122.273208"
+      },
+      "Published" : "2015-08-18T17:50:22Z",
+      "Title" : "2325 McKinley Avenue #16, Berkeley, CA 94703",
+      "Updated" : "2015-08-18T17:50:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.257474, 37.877017 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Kingman+Hall,+1730+La+Loma+Ave,+Berkeley,+CA+94709&ftid=0x80857c22504db30b:0x8a3b0d5a06c2c5d1",
+      "Location" : {
+        "Latitude" : "37.877017",
+        "Longitude" : "-122.257474"
+      },
+      "Published" : "2015-08-18T17:49:33Z",
+      "Title" : "Kingman Hall, 1730 La Loma Avenue, Berkeley, CA 94709",
+      "Updated" : "2015-08-18T17:49:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.2674940, 37.8719770 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15599137470892178772",
+      "Location" : {
+        "Address" : "2015 Shattuck Avenue, Berkeley, CA 94704, United States",
+        "Business Name" : "People's Coffee and Tea",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8719770",
+          "Longitude" : "-122.2674940"
+        }
+      },
+      "Published" : "2015-08-18T17:41:16Z",
+      "Title" : "People's Coffee and Tea",
+      "Updated" : "2015-08-18T17:41:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.2708956, 37.8695745 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12420100081318758180",
+      "Location" : {
+        "Address" : "2180 Milvia Street, Berkeley, CA 94704, United States",
+        "Business Name" : "City of Berkeley - Civic Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8695745",
+          "Longitude" : "-122.2708956"
+        }
+      },
+      "Published" : "2015-08-17T19:07:43Z",
+      "Title" : "City of Berkeley - Civic Center",
+      "Updated" : "2015-08-17T19:07:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.247187, 37.809277 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3190-3200+Alameda+County+Bicycle+Rte+35,+Oakland,+CA+94610&ftid=0x808f8741391ed769:0x2eabf63346cd8ee5",
+      "Location" : {
+        "Latitude" : "37.809277",
+        "Longitude" : "-122.247187"
+      },
+      "Published" : "2015-08-16T07:07:39Z",
+      "Title" : "3200 Alameda County Bicycle Route 35, Oakland, CA 94610",
+      "Updated" : "2015-08-16T07:07:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.606387, 37.905297 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.905297,-122.606387",
+      "Location" : {
+        "Latitude" : "37.905297",
+        "Longitude" : "-122.606387"
+      },
+      "Published" : "2015-08-14T03:11:52Z",
+      "Title" : "37.905297,-122.606387",
+      "Updated" : "2015-08-14T03:11:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.2744254, 37.8074179 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4946135804548874231",
+      "Location" : {
+        "Address" : "616 16th Street, Oakland, CA 94612, United States",
+        "Business Name" : "LifeLong Downtown Oakland Health Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8074179",
+          "Longitude" : "-122.2744254"
+        }
+      },
+      "Published" : "2015-08-10T22:59:45Z",
+      "Title" : "Lifelong Medical Care",
+      "Updated" : "2015-08-10T22:59:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.7940850, 38.4112530 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8158982181296497862",
+      "Location" : {
+        "Address" : "5300 Sebastopol Road, Santa Rosa, CA 95407, United States",
+        "Business Name" : "Earth In Upheaval Auto Repair",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.4112530",
+          "Longitude" : "-122.7940850"
+        }
+      },
+      "Published" : "2015-08-10T01:18:13Z",
+      "Title" : "Earth In Upheaval Auto Repair",
+      "Updated" : "2015-08-10T01:18:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.254104, 37.828959 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=4133+Gilbert+St,+Oakland,+CA+94611&ftid=0x80857dfa759311d7:0xa99774c9372ed318",
+      "Location" : {
+        "Latitude" : "37.828959",
+        "Longitude" : "-122.254104"
+      },
+      "Published" : "2015-08-09T17:31:15Z",
+      "Title" : "4133 Gilbert Street, Oakland, CA 94611",
+      "Updated" : "2015-08-09T17:31:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.407931, 37.764908 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=388+Potrero+Ave,+San+Francisco,+CA+94103&ftid=0x808f7e318d8846ef:0xc65ea3b9fece3813",
+      "Location" : {
+        "Latitude" : "37.764908",
+        "Longitude" : "-122.407931"
+      },
+      "Published" : "2015-08-07T21:48:23Z",
+      "Title" : "388 Potrero Avenue, San Francisco, CA 94103",
+      "Updated" : "2015-08-07T21:48:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4642295, 37.7826811 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5755842794192092969",
+      "Location" : {
+        "Address" : "302 6th Avenue, San Francisco, CA 94118, United States",
+        "Business Name" : "Aroma Tea Shop",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7826811",
+          "Longitude" : "-122.4642295"
+        }
+      },
+      "Published" : "2015-08-07T19:08:42Z",
+      "Title" : "Aroma Tea Shop",
+      "Updated" : "2015-08-07T19:08:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.419381, 37.751757 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=325+Bartlett+St,+San+Francisco,+CA+94110&ftid=0x808f7e40c71632e9:0x732db671bdd70c9d",
+      "Location" : {
+        "Latitude" : "37.751757",
+        "Longitude" : "-122.419381"
+      },
+      "Published" : "2015-08-07T15:44:35Z",
+      "Title" : "325 Bartlett Street, San Francisco, CA 94110",
+      "Updated" : "2015-08-07T15:44:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.265834, 37.813318 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2355+Broadway,+Oakland,+CA+94612&ftid=0x808f80acca011b3d:0x2b95601bdc9a47f8",
+      "Location" : {
+        "Latitude" : "37.813318",
+        "Longitude" : "-122.265834"
+      },
+      "Published" : "2015-08-02T00:34:19Z",
+      "Title" : "2355 Broadway, Oakland, CA 94612",
+      "Updated" : "2015-08-02T00:34:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.432039, 37.775057 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=860+Fell+St,+San+Francisco,+CA+94117&ftid=0x808580a4512a7a0f:0x9d6d93b9da704c6f",
+      "Location" : {
+        "Latitude" : "37.775057",
+        "Longitude" : "-122.432039"
+      },
+      "Published" : "2015-08-02T00:19:19Z",
+      "Title" : "860 Fell Street, San Francisco, CA 94117",
+      "Updated" : "2015-08-02T00:19:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4130261, 37.7919185 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=319020399699904643",
+      "Location" : {
+        "Address" : "1100 California Street, San Francisco, CA 94108, United States",
+        "Business Name" : "Grace Cathedral",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7919185",
+          "Longitude" : "-122.4130261"
+        }
+      },
+      "Published" : "2015-07-26T19:03:19Z",
+      "Title" : "Grace Cathedral",
+      "Updated" : "2015-07-26T19:03:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.254346, 37.795824 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=439+International+Blvd,+Oakland,+CA+94606&ftid=0x808f87307747ac2f:0x4a383ecb1fa1a0be",
+      "Location" : {
+        "Latitude" : "37.795824",
+        "Longitude" : "-122.254346"
+      },
+      "Published" : "2015-07-23T23:51:14Z",
+      "Title" : "439 International Boulevard, Oakland, CA 94606",
+      "Updated" : "2015-07-23T23:51:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.285468, 37.846219 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1121+64th+St,+Oakland,+CA+94608&ftid=0x80857e6729657395:0xad1d401e39fc8373",
+      "Location" : {
+        "Latitude" : "37.846219",
+        "Longitude" : "-122.285468"
+      },
+      "Published" : "2015-07-13T08:13:33Z",
+      "Title" : "1121 64th Street, Oakland, CA 94608",
+      "Updated" : "2015-07-13T08:13:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.813685, 38.378728 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=310+Sparkes+Rd,+Sebastopol,+CA+95472&ftid=0x808430d204baf6b3:0x8213cd9f275a42e",
+      "Location" : {
+        "Latitude" : "38.378728",
+        "Longitude" : "-122.813685"
+      },
+      "Published" : "2015-07-03T19:17:57Z",
+      "Title" : "310 Sparkes Road, Sebastopol, CA 95472",
+      "Updated" : "2015-07-03T19:17:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4093674, 37.7882986 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8364164026005154019",
+      "Location" : {
+        "Address" : "450 Post Street, San Francisco, CA 94102, United States",
+        "Business Name" : "Kensington Park Hotel",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7882986",
+          "Longitude" : "-122.4093674"
+        }
+      },
+      "Published" : "2015-06-24T12:13:19Z",
+      "Title" : "Kensington Park Hotel",
+      "Updated" : "2015-06-24T12:13:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 121.4300410, 31.1545790 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8939166942995848076",
+      "Location" : {
+        "Address" : "Xuhui, Shanghai, China",
+        "Business Name" : "Shanghai South Railway Station",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "31.1545790",
+          "Longitude" : "121.4300410"
+        }
+      },
+      "Published" : "2015-05-19T03:07:01Z",
+      "Title" : "Shanghai South Railway Station",
+      "Updated" : "2015-05-19T03:07:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 121.4565110, 31.2244919 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11264606178763999643",
+      "Location" : {
+        "Address" : "China, 陕西北路33号",
+        "Business Name" : "迪卡侬",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "31.2244919",
+          "Longitude" : "121.4565110"
+        }
+      },
+      "Published" : "2015-05-19T02:45:46Z",
+      "Title" : "廸卡儂",
+      "Updated" : "2015-05-19T02:45:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 121.5075677, 31.2349416 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4063463014939583074",
+      "Location" : {
+        "Address" : "China, Shanghai, Pudong, Century Avenue, 100号, Shanghai World Financial Center, 柏悦酒店 91层 邮政编码: 200120",
+        "Business Name" : "100 Century Avenue",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "31.2349416",
+          "Longitude" : "121.5075677"
+        }
+      },
+      "Published" : "2015-05-19T01:55:08Z",
+      "Title" : "100 Century Avenue",
+      "Updated" : "2015-05-19T01:55:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 118.2015070, 25.0575680 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=530757586837821254",
+      "Location" : {
+        "Address" : "China",
+        "Business Name" : "安溪",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0575680",
+          "Longitude" : "118.2015070"
+        }
+      },
+      "Published" : "2015-05-15T08:37:27Z",
+      "Title" : "Anxi Railway Station",
+      "Updated" : "2015-05-15T08:37:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 118.035310, 27.756648 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Wuyishan,+Nanping,+Fujian,+China&ftid=0x3438f958ba25523b:0x79d74741af881b40",
+      "Location" : {
+        "Latitude" : "27.756648",
+        "Longitude" : "118.035310"
+      },
+      "Published" : "2015-05-15T08:34:05Z",
+      "Title" : "Wuyishan, Nanping, Fujian, China",
+      "Updated" : "2015-05-15T08:34:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4276990, 37.7846480 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15067462126092336960",
+      "Location" : {
+        "Address" : "1450 Laguna Street, San Francisco, CA 94115, United States",
+        "Business Name" : "Consulate General of the People's Republic of China in San Francisco",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7846480",
+          "Longitude" : "-122.4276990"
+        }
+      },
+      "Published" : "2015-05-05T09:41:36Z",
+      "Title" : "Chinese Consulate-General in San Francisco",
+      "Updated" : "2015-05-05T09:41:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.528387, 37.999345 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.99934481636358,-122.52838656306267",
+      "Location" : {
+        "Latitude" : "37.999345",
+        "Longitude" : "-122.528387"
+      },
+      "Published" : "2015-05-05T05:31:09Z",
+      "Title" : "37.99934481636358,-122.52838656306267",
+      "Updated" : "2015-05-05T05:31:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.236107, 37.802240 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1011+Bayview+Ave,+Oakland,+CA+94610&ftid=0x808f87112159d62b:0x8973ba378ed46177",
+      "Location" : {
+        "Latitude" : "37.802240",
+        "Longitude" : "-122.236107"
+      },
+      "Published" : "2015-04-13T05:37:54Z",
+      "Title" : "1011 Bayview Avenue, Oakland, CA 94610",
+      "Updated" : "2015-04-13T05:37:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.430789, 37.774475 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10100023227169445862",
+      "Location" : {
+        "Latitude" : "37.774475",
+        "Longitude" : "-122.430789"
+      },
+      "Published" : "2015-04-11T18:31:42Z",
+      "Title" : "Tea Oasis",
+      "Updated" : "2015-04-11T18:31:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4353275, 37.7860599 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1399409996843976511",
+      "Location" : {
+        "Address" : "2120 Sutter Street, San Francisco, CA 94115, United States",
+        "Business Name" : "Song Tea & Ceramics",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7860599",
+          "Longitude" : "-122.4353275"
+        }
+      },
+      "Published" : "2015-04-11T18:31:28Z",
+      "Title" : "Song Tea & Ceramics",
+      "Updated" : "2015-04-11T18:31:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.7172020, 38.3769845 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17081813441542262544",
+      "Location" : {
+        "Address" : "4180 South Moorland Avenue, Santa Rosa, CA 95407, United States",
+        "Business Name" : "GrowGeneration",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.3769845",
+          "Longitude" : "-122.7172020"
+        }
+      },
+      "Published" : "2015-04-09T18:29:30Z",
+      "Title" : "Santa Rosa Hydroponics & Growing Supplies",
+      "Updated" : "2015-04-09T18:29:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.7431570, 38.4722740 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16267630630420738019",
+      "Location" : {
+        "Address" : "7416, 3358A, Coffey Lane, Santa Rosa, CA 95403, United States",
+        "Business Name" : "Vertex Climbing Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.4722740",
+          "Longitude" : "-122.7431570"
+        }
+      },
+      "Published" : "2015-04-09T14:45:09Z",
+      "Title" : "Vertex Climbing Center",
+      "Updated" : "2015-04-09T14:45:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.412074, 37.744822 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1605+Treat+Ave,+San+Francisco,+CA+94110&ftid=0x808f7e500df1aea9:0xfaefaf01381abe1e",
+      "Location" : {
+        "Latitude" : "37.744822",
+        "Longitude" : "-122.412074"
+      },
+      "Published" : "2015-04-01T18:42:45Z",
+      "Title" : "1605 Treat Avenue, San Francisco, CA 94110",
+      "Updated" : "2015-04-01T18:42:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.529036, 37.999813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jefferson+Ave+%26+Madison+Ave,+San+Rafael,+CA+94903&ftid=0x808599d17e2373cf:0x80af2a1ccfeb47f1",
+      "Location" : {
+        "Latitude" : "37.999813",
+        "Longitude" : "-122.529036"
+      },
+      "Published" : "2015-03-30T19:08:16Z",
+      "Title" : "",
+      "Updated" : "2015-03-30T19:08:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.7127764, 38.4102120 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4966216186985634873",
+      "Location" : {
+        "Address" : "2770 Santa Rosa Avenue, Santa Rosa, CA 95407, United States",
+        "Business Name" : "TAP Plastics Inc",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.4102120",
+          "Longitude" : "-122.7127764"
+        }
+      },
+      "Published" : "2015-02-25T21:49:14Z",
+      "Title" : "Tap Plastics Inc",
+      "Updated" : "2015-02-25T21:49:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.245282, 37.823012 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=325+Howard+Ave,+Piedmont,+CA+94611&ftid=0x808f875e54ebaa45:0x44ec711d3b7610c5",
+      "Location" : {
+        "Latitude" : "37.823012",
+        "Longitude" : "-122.245282"
+      },
+      "Published" : "2015-02-09T22:12:55Z",
+      "Title" : "325 Howard Avenue, Piedmont, CA 94611",
+      "Updated" : "2015-02-09T22:12:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4218344, 37.7663153 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14916707099013771970",
+      "Location" : {
+        "Address" : "411 Valencia Street, San Francisco, CA 94103, United States",
+        "Business Name" : "Samovar Teahouse Cafe",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7663153",
+          "Longitude" : "-122.4218344"
+        }
+      },
+      "Published" : "2014-10-30T01:39:57Z",
+      "Title" : "Samovar Tea Lounge",
+      "Updated" : "2014-10-30T01:39:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4115553, 37.7609575 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15104672736216930331",
+      "Location" : {
+        "Address" : "650H Florida Street, San Francisco, CA 94110, United States",
+        "Business Name" : "The Bike Kitchen",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7609575",
+          "Longitude" : "-122.4115553"
+        }
+      },
+      "Published" : "2014-10-27T21:04:42Z",
+      "Title" : "Bike Kitchen",
+      "Updated" : "2014-10-27T21:04:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.430915, 37.774553 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=548 Fillmore St, San Francisco, CA 94117&ftid=0x808580a414e9ccdb:0xc98a0feb6e162d13",
+      "Location" : {
+        "Latitude" : "37.774553",
+        "Longitude" : "-122.430915"
+      },
+      "Published" : "2014-10-25T23:43:45Z",
+      "Title" : "548 Fillmore St, San Francisco, CA 94117",
+      "Updated" : "2014-10-25T23:43:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.247179, 37.863322 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2951 Derby St, University of California, Berkeley, Berkeley, CA 94705&ftid=0x80857c34b43f5763:0x32ad25cb39818db1",
+      "Location" : {
+        "Latitude" : "37.863322",
+        "Longitude" : "-122.247179"
+      },
+      "Published" : "2014-10-24T21:30:51Z",
+      "Title" : "2951 Derby St, Berkeley, CA 94705",
+      "Updated" : "2014-10-24T21:30:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.241419, 37.800166 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2416 8th Ave, Oakland, CA 94606&ftid=0x808f8717ca2f9e07:0xd12e11fc5b4ede95",
+      "Location" : {
+        "Latitude" : "37.800166",
+        "Longitude" : "-122.241419"
+      },
+      "Published" : "2014-09-15T19:42:31Z",
+      "Title" : "2416 8th Ave, Oakland, CA 94606",
+      "Updated" : "2014-09-15T19:42:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 100.771679, 22.000143 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jinghong, Xishuangbanna, Yunnan, China&ftid=0x312ab50227b0d78d:0x41bceda458368c20",
+      "Location" : {
+        "Latitude" : "22.000143",
+        "Longitude" : "100.771679"
+      },
+      "Published" : "2014-03-27T18:51:45Z",
+      "Title" : "Jinghong, Xishuangbanna, Yunnan, China",
+      "Updated" : "2014-03-27T18:51:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 120.1177320, 30.1903610 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8667311612100115219",
+      "Location" : {
+        "Address" : "8 Jiuxi Road, Xihu, Hangzhou, Zhejiang, China",
+        "Business Name" : "Linquan Villa",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "30.1903610",
+          "Longitude" : "120.1177320"
+        }
+      },
+      "Published" : "2014-02-26T13:00:23Z",
+      "Title" : "Linquan Villa",
+      "Updated" : "2014-02-26T13:00:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.716929, 38.447949 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=519 Benton St, Santa Rosa, CA 95404&ftid=0x808447f7eda3c0b9:0x6ccc4f25b1bae28b",
+      "Location" : {
+        "Latitude" : "38.447949",
+        "Longitude" : "-122.716929"
+      },
+      "Published" : "2014-02-15T03:43:22Z",
+      "Title" : "519 Benton St, Santa Rosa, CA 95404",
+      "Updated" : "2014-02-15T03:43:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.244071, 37.797670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2101 9th Ave, Oakland, CA 94606&ftid=0x808f873d49cde2a9:0x611c9f1f32f40b93",
+      "Location" : {
+        "Latitude" : "37.797670",
+        "Longitude" : "-122.244071"
+      },
+      "Published" : "2014-01-26T01:32:02Z",
+      "Title" : "2101 9th Ave, Oakland, CA 94606",
+      "Updated" : "2014-01-26T01:32:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -123.360427, 38.720707 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=35158+Annapolis+Rd,+Annapolis,+CA&ftid=0x80814b77f1897c9d:0x3986f9e6ac85d10c",
+      "Location" : {
+        "Latitude" : "38.720707",
+        "Longitude" : "-123.360427"
+      },
+      "Published" : "2013-10-23T21:03:14Z",
+      "Title" : "35158 Annapolis Rd, Annapolis, CA 95412",
+      "Updated" : "2013-10-23T21:03:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -123.399854, 38.651964 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=38.651735,-123.399738&ftid=0x8086b518cc02a495:0xd316e8469d6d45c",
+      "Location" : {
+        "Latitude" : "38.651964",
+        "Longitude" : "-123.399854"
+      },
+      "Published" : "2013-10-23T20:37:33Z",
+      "Title" : "32000 California 1, Jenner, CA 95450",
+      "Updated" : "2013-10-23T20:37:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.417932, 36.778261 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=38.651735,-123.399738&ftid=0x808fb9fe5f285e3d:0x8b5109a227086f55",
+      "Location" : {
+        "Latitude" : "36.778261",
+        "Longitude" : "-119.417932"
+      },
+      "Published" : "2013-10-23T20:36:33Z",
+      "Title" : "California",
+      "Updated" : "2013-10-23T20:36:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.2827213, 37.9178481 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6498525098674954078",
+      "Location" : {
+        "Address" : "1 Lawson Road, Kensington, CA 94707, United States",
+        "Business Name" : "Unitarian Universalist Church of Berkeley",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.9178481",
+          "Longitude" : "-122.2827213"
+        }
+      },
+      "Published" : "2013-10-10T17:36:34Z",
+      "Title" : "Unitarian Universalist Church of Berkeley",
+      "Updated" : "2013-10-10T17:36:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.315429, 37.934478 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2503 Edwards Ave, El Cerrito, CA 94530, USA&ftid=0x8085784bcf3c61d3:0x2012c6112ad3c62f",
+      "Location" : {
+        "Latitude" : "37.934478",
+        "Longitude" : "-122.315429"
+      },
+      "Published" : "2013-10-10T17:35:45Z",
+      "Title" : "2503 Edwards Ave, El Cerrito, CA 94530, USA",
+      "Updated" : "2013-10-10T17:35:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 112.168290, 32.012938 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=32.012938,112.168290",
+      "Location" : {
+        "Latitude" : "32.012938",
+        "Longitude" : "112.168290"
+      },
+      "Published" : "2013-09-04T06:11:49Z",
+      "Title" : "32.012938,112.168290",
+      "Updated" : "2013-09-04T06:11:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 112.1399540, 32.0533950 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17149619391230930560",
+      "Location" : {
+        "Address" : "10 Chunyuan Road, Fancheng, Xiangyang, Hubei, China, 441003",
+        "Business Name" : "Xiangyang Entry-Exit Inspection And Quarantine Bureau",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "32.0533950",
+          "Longitude" : "112.1399540"
+        }
+      },
+      "Published" : "2013-09-04T06:09:40Z",
+      "Title" : "Xiangyang Entry-Exit Inspection And Quarantine Bureau",
+      "Updated" : "2013-09-04T06:09:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.170549, 22.311581 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arts+Mansion,+Yau+Ma+Tei&ftid=0x340400c055120639:0x8722a466aadefb3a",
+      "Location" : {
+        "Latitude" : "22.311581",
+        "Longitude" : "114.170549"
+      },
+      "Published" : "2013-04-22T14:12:54Z",
+      "Title" : "Arts Mansion",
+      "Updated" : "2013-04-22T14:12:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.170412, 22.306115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=96-98+Woosung+St+Jordan,+Hong+Kong&ftid=0x340400eafe29bd23:0x38473c9bd901db70",
+      "Location" : {
+        "Latitude" : "22.306115",
+        "Longitude" : "114.170412"
+      },
+      "Published" : "2013-03-22T19:11:04Z",
+      "Title" : "96-98 Woosung St",
+      "Updated" : "2013-03-22T19:11:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.334894, 39.981606 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Haidian,+Beijing,+China,+100190+5%E5%8F%B7-35%E5%8F%B7+Zhongguancun+South+4th+St",
+      "Location" : {
+        "Latitude" : "39.981606",
+        "Longitude" : "116.334894"
+      },
+      "Published" : "2013-01-24T00:43:32Z",
+      "Title" : "Haidian, Beijing, China, 100190",
+      "Updated" : "2013-01-24T00:43:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.419060, 39.933487 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15449288029724250981",
+      "Location" : {
+        "Latitude" : "39.933487",
+        "Longitude" : "116.419060"
+      },
+      "Published" : "2012-11-07T10:14:22Z",
+      "Title" : "Ping An Fu",
+      "Updated" : "2012-11-07T10:14:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.5269490, 40.0021750 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12510073399718539528",
+      "Location" : {
+        "Address" : "China, Beijing, Chaoyang, 黑桥村",
+        "Business Name" : "南皋乡黑桥村村民委员会",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "40.0021750",
+          "Longitude" : "116.5269490"
+        }
+      },
+      "Published" : "2012-10-22T13:10:12Z",
+      "Title" : "南皋乡黑桥村村民委员会",
+      "Updated" : "2012-10-22T13:10:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.382454, 39.941791 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E4%BB%80%E5%88%B9%E6%B5%B7&ftid=0x35f053056777f5cb:0xdd44e32e3668867d",
+      "Location" : {
+        "Latitude" : "39.941791",
+        "Longitude" : "116.382454"
+      },
+      "Published" : "2012-10-14T09:22:12Z",
+      "Title" : "Beijing, Xicheng, 什刹海",
+      "Updated" : "2012-10-14T09:22:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 111.989000, 43.658300 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E4%BA%8C%E8%BF%9E&ftid=0x5dfec3d3a844b023:0x321e207fcc82822f",
+      "Location" : {
+        "Latitude" : "43.658300",
+        "Longitude" : "111.989000"
+      },
+      "Published" : "2012-09-25T03:42:49Z",
+      "Title" : "二连",
+      "Updated" : "2012-09-25T03:42:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 111.0817540, 32.4691530 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6932281934755521017",
+      "Location" : {
+        "Address" : "China, Hubei, Shiyan, Danjiangkou, Wudang Road, 永乐路14号",
+        "Business Name" : "磨针井",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "32.4691530",
+          "Longitude" : "111.0817540"
+        }
+      },
+      "Published" : "2012-09-15T06:35:47Z",
+      "Title" : "Mozhenjing",
+      "Updated" : "2012-09-15T06:35:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 111.112311, 32.500575 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E6%B9%96%E5%8C%97%E7%9C%81%E5%8D%81%E5%A0%B0%E5%B8%82%E6%AD%A6%E5%BD%93%E5%B1%B1%E5%85%83%E5%92%8C%E8%A7%82%E3%80%82&ftid=0x3680b2a0b08f5d33:0x576398f9551bd022",
+      "Location" : {
+        "Latitude" : "32.500575",
+        "Longitude" : "111.112311"
+      },
+      "Published" : "2012-09-15T06:30:23Z",
+      "Title" : "Hubei, Shiyan, Danjiangkou, 元和观村",
+      "Updated" : "2012-09-15T06:30:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 117.178420, 29.268836 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=jingdezhen&ftid=0x3430cc50f7411411:0x893cf6012622dea2",
+      "Location" : {
+        "Latitude" : "29.268836",
+        "Longitude" : "117.178420"
+      },
+      "Published" : "2012-09-09T13:08:21Z",
+      "Title" : "Jingdezhen, Jiangxi",
+      "Updated" : "2012-09-09T13:08:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 91.5671500, 29.3968530 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17203118804540350604",
+      "Location" : {
+        "Address" : "Chanang, Shannan, Tibet, China",
+        "Business Name" : "青朴修行地",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "29.3968530",
+          "Longitude" : "91.5671500"
+        }
+      },
+      "Published" : "2012-07-30T02:13:03Z",
+      "Title" : "青朴修行地",
+      "Updated" : "2012-07-30T02:13:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 113.9940518, 22.5369428 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3768932506643124634",
+      "Location" : {
+        "Address" : "China, Guangdong, Shenzhen, Kaiping Street, 华侨城创意文化园F1栋101",
+        "Business Name" : "Qingpuluo",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "22.5369428",
+          "Longitude" : "113.9940518"
+        }
+      },
+      "Published" : "2012-07-30T02:11:57Z",
+      "Title" : "Qingpuluo",
+      "Updated" : "2012-07-30T02:11:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 114.314579, 30.532962 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E6%AD%A6%E6%98%8C%E5%8C%BA%E5%BC%A0%E4%B9%8B%E6%B4%9E%E8%B7%AF%E5%8D%83%E5%AE%B6%E8%A1%97%E7%AB%99&ftid=0x342eafe8e646bd11:0xf240ced8ab042f7b",
+      "Location" : {
+        "Latitude" : "30.532962",
+        "Longitude" : "114.314579"
+      },
+      "Published" : "2012-07-12T05:23:04Z",
+      "Title" : "张之洞路千家街",
+      "Updated" : "2012-07-12T05:23:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 111.0290980, 32.4237010 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12909242622116947906",
+      "Location" : {
+        "Address" : "China, Hubei, Shiyan, Danjiangkou, Wudang Road, 永乐路14号",
+        "Business Name" : "紫霄宫",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "32.4237010",
+          "Longitude" : "111.0290980"
+        }
+      },
+      "Published" : "2012-06-21T14:10:43Z",
+      "Title" : "Zixiaogong",
+      "Updated" : "2012-06-21T14:10:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 111.0262750, 32.3938490 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10217558479908184485",
+      "Location" : {
+        "Address" : "Danjiangkou, Shiyan, Hubei, China",
+        "Business Name" : "Xianshan Hotel",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "32.3938490",
+          "Longitude" : "111.0262750"
+        }
+      },
+      "Published" : "2012-06-21T14:09:42Z",
+      "Title" : "Xianshan Hotel",
+      "Updated" : "2012-06-21T14:09:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 112.907972, 33.738709 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lushan,+Pingdingshan,+Henan,+China&ftid=0x35d6071c7a92c88b:0x27dba62a7446af76",
+      "Location" : {
+        "Latitude" : "33.738709",
+        "Longitude" : "112.907972"
+      },
+      "Published" : "2012-05-22T04:36:31Z",
+      "Title" : "Lushan, Pingdingshan, Henan, China",
+      "Updated" : "2012-05-22T04:36:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 112.467878, 34.559499 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17172360898881839628",
+      "Location" : {
+        "Latitude" : "34.559499",
+        "Longitude" : "112.467878"
+      },
+      "Published" : "2012-05-22T04:24:11Z",
+      "Title" : "Longmen Grottoes",
+      "Updated" : "2012-05-22T04:24:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 112.405761, 34.671759 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=34.671759,112.405761",
+      "Location" : {
+        "Latitude" : "34.671759",
+        "Longitude" : "112.405761"
+      },
+      "Published" : "2012-05-22T04:23:57Z",
+      "Title" : "34.671759,112.405761",
+      "Updated" : "2012-05-22T04:23:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 113.597024, 35.584997 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F&ftid=0x35d90821fa0f84df:0x58e1ab0046b95395",
+      "Location" : {
+        "Latitude" : "35.584997",
+        "Longitude" : "113.597024"
+      },
+      "Published" : "2012-05-22T04:23:53Z",
+      "Title" : "Ba Li Gou, Hui Xian Shi, Xinxiang, Henan, China",
+      "Updated" : "2012-05-22T04:23:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.9907580, 35.5968370 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2981732299661463948",
+      "Location" : {
+        "Address" : "China",
+        "Business Name" : "孔庙",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "35.5968370",
+          "Longitude" : "116.9907580"
+        }
+      },
+      "Published" : "2012-05-22T04:23:45Z",
+      "Title" : "孔庙",
+      "Updated" : "2012-05-22T04:23:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 117.135399, 36.191737 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F&ftid=0x35c187c77c741a27:0xb818379ffae6c762",
+      "Location" : {
+        "Latitude" : "36.191737",
+        "Longitude" : "117.135399"
+      },
+      "Published" : "2012-05-22T04:23:40Z",
+      "Title" : "Taishan, Tai'an, Shandong, China",
+      "Updated" : "2012-05-22T04:23:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 117.5346911, 36.4993969 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10955007323529942139",
+      "Location" : {
+        "Address" : "China, Shandong, Laiwu, Laicheng, 242省道",
+        "Business Name" : "Qichangcheng",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "36.4993969",
+          "Longitude" : "117.5346911"
+        }
+      },
+      "Published" : "2012-05-22T04:23:37Z",
+      "Title" : "Qichangcheng",
+      "Updated" : "2012-05-22T04:23:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 117.038700, 36.634050 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=36.634050,117.038700",
+      "Location" : {
+        "Latitude" : "36.634050",
+        "Longitude" : "117.038700"
+      },
+      "Published" : "2012-05-22T04:23:33Z",
+      "Title" : "36.634050,117.038700",
+      "Updated" : "2012-05-22T04:23:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.276040, 39.920861 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.920861,116.276040",
+      "Location" : {
+        "Latitude" : "39.920861",
+        "Longitude" : "116.276040"
+      },
+      "Published" : "2012-05-22T02:24:40Z",
+      "Title" : "39.920861,116.276040",
+      "Updated" : "2012-05-22T02:24:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.379705, 39.967415 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.967415,116.379705",
+      "Location" : {
+        "Latitude" : "39.967415",
+        "Longitude" : "116.379705"
+      },
+      "Published" : "2012-05-21T07:30:06Z",
+      "Title" : "Xicheng, Beijing, China",
+      "Updated" : "2012-05-21T07:30:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.480458, 39.978586 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E4%B8%BD%E9%83%BD%E9%A5%AD%E5%BA%97%E7%AB%99&ftid=0x35f1abb1b00580f1:0x4f51e03f419437e2",
+      "Location" : {
+        "Latitude" : "39.978586",
+        "Longitude" : "116.480458"
+      },
+      "Published" : "2012-05-10T13:05:17Z",
+      "Title" : "丽都饭店",
+      "Updated" : "2012-05-10T13:05:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.4166650, 39.9396600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17883419287919040249",
+      "Location" : {
+        "Address" : "43 Dongsi North Street, Dongcheng, Beijing, China",
+        "Business Name" : "Jindian New Bridge Xintuo Firm",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.9396600",
+          "Longitude" : "116.4166650"
+        }
+      },
+      "Published" : "2012-05-10T05:03:31Z",
+      "Title" : "Jindian New Bridge Xintuo Firm",
+      "Updated" : "2012-05-10T05:03:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.4508790, 39.8976566 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13968014606748101768",
+      "Location" : {
+        "Address" : "China, Beijing, Chaoyang, Xingguang Avenue, 双花园南里二区13-9",
+        "Business Name" : "China Citic Bank",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.8976566",
+          "Longitude" : "116.4508790"
+        }
+      },
+      "Published" : "2012-05-09T05:20:43Z",
+      "Title" : "Citic Bank",
+      "Updated" : "2012-05-09T05:20:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.488283, 39.897411 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.897411,116.488283",
+      "Location" : {
+        "Latitude" : "39.897411",
+        "Longitude" : "116.488283"
+      },
+      "Published" : "2012-05-08T01:28:55Z",
+      "Title" : "39.897411,116.488283",
+      "Updated" : "2012-05-08T01:29:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.4805620, 40.0023690 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=281509313053617260",
+      "Location" : {
+        "Address" : "Hongtai East Street, Wangjing, Chaoyang, Beijing, China",
+        "Business Name" : "Huigu Sunny （South Gate）",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "40.0023690",
+          "Longitude" : "116.4805620"
+        }
+      },
+      "Published" : "2012-05-07T12:51:40Z",
+      "Title" : "Huigu Sunny （South Gate）",
+      "Updated" : "2012-05-07T12:51:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.517012, 39.930038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.930038,116.517012",
+      "Location" : {
+        "Latitude" : "39.930038",
+        "Longitude" : "116.517012"
+      },
+      "Published" : "2012-05-07T02:22:40Z",
+      "Title" : "39.930038,116.517012",
+      "Updated" : "2012-05-07T02:22:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.300174, 39.955760 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E5%8E%82%E6%B4%BC%E8%A5%BF%E8%A1%97&ftid=0x35f0510b3b505d77:0xdc05d6e1b9ecbce2",
+      "Location" : {
+        "Latitude" : "39.955760",
+        "Longitude" : "116.300174"
+      },
+      "Published" : "2012-05-05T07:24:18Z",
+      "Title" : "Chang Wa Xi Jie",
+      "Updated" : "2012-05-05T07:24:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 102.688797, 25.059124 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%E4%BA%91%E5%8D%97%E7%9C%81%E6%98%86%E6%98%8E%E4%BA%94%E5%8D%8E%E5%8C%BA%E8%99%B9%E5%B1%B1%E4%B8%9C%E8%B7%AF182%E5%8F%B7&ftid=0x36d083b649591253:0xda22c263549c9bb1",
+      "Location" : {
+        "Latitude" : "25.059124",
+        "Longitude" : "102.688797"
+      },
+      "Published" : "2012-03-05T10:53:53Z",
+      "Title" : "182号 Hong Shan Dong Lu",
+      "Updated" : "2012-03-05T10:53:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 102.710026, 25.038944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=25.038944,102.710026",
+      "Location" : {
+        "Latitude" : "25.038944",
+        "Longitude" : "102.710026"
+      },
+      "Published" : "2012-02-22T03:05:03Z",
+      "Title" : "25.038944,102.710026",
+      "Updated" : "2012-02-22T03:05:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 102.7326314, 25.0430719 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2042535684078198133",
+      "Location" : {
+        "Address" : "225 Huancheng East Road, Panlong, Kunming, Yunnan, China",
+        "Business Name" : "集大广场",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0430719",
+          "Longitude" : "102.7326314"
+        }
+      },
+      "Published" : "2012-02-12T14:04:45Z",
+      "Title" : "集大广场",
+      "Updated" : "2012-02-12T14:04:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 102.7136880, 25.0384730 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1870454724145272397",
+      "Location" : {
+        "Address" : "China, Yunnan, Kunming, Wuhua, 南屏街",
+        "Business Name" : "云南信托大厦",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0384730",
+          "Longitude" : "102.7136880"
+        }
+      },
+      "Published" : "2012-02-12T04:10:40Z",
+      "Title" : "云南信托大厦",
+      "Updated" : "2012-02-12T04:10:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 102.712769, 25.029873 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=25.029873,102.712769",
+      "Location" : {
+        "Latitude" : "25.029873",
+        "Longitude" : "102.712769"
+      },
+      "Published" : "2012-02-05T09:58:25Z",
+      "Title" : "Xishan, Kunming, Yunnan, China, 650034",
+      "Updated" : "2012-02-05T09:58:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 102.7008050, 25.0515980 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18240582291246158375",
+      "Location" : {
+        "Address" : "136 Wenlin Street, Wuhua, Kunming, Yunnan, China",
+        "Business Name" : "Game",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "25.0515980",
+          "Longitude" : "102.7008050"
+        }
+      },
+      "Published" : "2012-02-04T06:00:29Z",
+      "Title" : "Game",
+      "Updated" : "2012-02-04T06:00:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.3426934, 39.9669546 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17123789844272982866",
+      "Location" : {
+        "Address" : "甲18 North 3rd Ring Road West, Beixiaguan, Haidian, Beijing, China",
+        "Business Name" : "Dazhongsi Zhongkun Plaza",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.9669546",
+          "Longitude" : "116.3426934"
+        }
+      },
+      "Published" : "2012-01-26T14:55:37Z",
+      "Title" : "Dazhongsi Zhongkun Plaza",
+      "Updated" : "2012-01-26T14:55:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.3589440, 39.9523100 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7253737513510882200",
+      "Location" : {
+        "Address" : "China, Beijing, Haidian, 红联北村西直门桥300米",
+        "Business Name" : "今典花园二期",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.9523100",
+          "Longitude" : "116.3589440"
+        }
+      },
+      "Published" : "2012-01-26T12:16:42Z",
+      "Title" : "今典花园",
+      "Updated" : "2012-01-26T12:16:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -82.332915, 29.679877 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=801+NW+30th+Ave,+Gainesville,+FL+32609&ftid=0x88e8a468f55ca2a3:0xdefc3ce463d25bd2",
+      "Location" : {
+        "Latitude" : "29.679877",
+        "Longitude" : "-82.332915"
+      },
+      "Published" : "2012-01-07T22:57:34Z",
+      "Title" : "801 NW 30th Ave",
+      "Updated" : "2012-01-07T22:57:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -82.320570, 29.656270 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=519+Northeast+5th+Street,+Gainesville,+FL&ftid=0x88e8a3f5ab1906ff:0x729250e8c7efd56f",
+      "Location" : {
+        "Latitude" : "29.656270",
+        "Longitude" : "-82.320570"
+      },
+      "Published" : "2012-01-03T19:27:31Z",
+      "Title" : "519 NE 5th St",
+      "Updated" : "2012-01-03T19:27:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -82.471071, 28.044857 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=28.044857,-82.471071",
+      "Location" : {
+        "Latitude" : "28.044857",
+        "Longitude" : "-82.471071"
+      },
+      "Published" : "2011-12-28T21:40:54Z",
+      "Title" : "10301-10399 N Newport Cir",
+      "Updated" : "2011-12-28T21:40:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.456062, 39.932318 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9806005128534852557",
+      "Location" : {
+        "Latitude" : "39.932318",
+        "Longitude" : "116.456062"
+      },
+      "Published" : "2011-10-26T06:16:08Z",
+      "Title" : "The Bookworm",
+      "Updated" : "2011-10-26T06:16:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.326546, 39.883738 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=马连道",
+      "Location" : {
+        "Latitude" : "39.883738",
+        "Longitude" : "116.326546"
+      },
+      "Published" : "2011-07-01T05:39:55Z",
+      "Title" : "马连道, Xicheng, Beijing",
+      "Updated" : "2011-07-02T07:17:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 118.4349294, 29.8669929 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9366226333241204452",
+      "Location" : {
+        "Address" : "Huizhou Road, Shexian, Huangshan, Anhui, China",
+        "Business Name" : "Huizhou Ancient City",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "29.8669929",
+          "Longitude" : "118.4349294"
+        }
+      },
+      "Published" : "2011-06-19T06:44:18Z",
+      "Title" : "Huizhou Ancient City （North Gate）",
+      "Updated" : "2011-06-19T06:44:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.402708, 39.957066 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.957066,116.402708",
+      "Location" : {
+        "Latitude" : "39.957066",
+        "Longitude" : "116.402708"
+      },
+      "Published" : "2011-06-05T05:49:05Z",
+      "Title" : "39.957066,116.402708",
+      "Updated" : "2011-06-05T05:49:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.3089871, 39.9532231 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8547748648064121690",
+      "Location" : {
+        "Address" : "21 West 3rd Ring Road North, Haidian, Beijing, China",
+        "Business Name" : "Yanlanlou",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.9532231",
+          "Longitude" : "116.3089871"
+        }
+      },
+      "Published" : "2011-06-04T07:59:34Z",
+      "Title" : "Yanlanlou",
+      "Updated" : "2011-06-04T07:59:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 115.9496790, 39.9797370 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7023559275157290826",
+      "Location" : {
+        "Address" : "China, Beijing, Mentougou, 木城涧路",
+        "Business Name" : "樱桃沟",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "39.9797370",
+          "Longitude" : "115.9496790"
+        }
+      },
+      "Published" : "2011-05-29T02:09:56Z",
+      "Title" : "樱桃沟",
+      "Updated" : "2011-05-29T02:09:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.049650, 39.976156 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.976156,116.04965",
+      "Location" : {
+        "Latitude" : "39.976156",
+        "Longitude" : "116.049650"
+      },
+      "Published" : "2011-05-29T02:07:25Z",
+      "Title" : "Mentougou, Beijing, China",
+      "Updated" : "2011-05-29T02:07:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.490077, 39.975290 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.97529,116.490077",
+      "Location" : {
+        "Latitude" : "39.975290",
+        "Longitude" : "116.490077"
+      },
+      "Published" : "2011-05-09T07:34:51Z",
+      "Title" : "Chaoyang, Beijing, China",
+      "Updated" : "2011-05-09T07:34:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.518107, 39.923728 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.923728,116.518107",
+      "Location" : {
+        "Latitude" : "39.923728",
+        "Longitude" : "116.518107"
+      },
+      "Published" : "2011-04-23T10:20:10Z",
+      "Title" : "Chaoyang, Beijing, China, 100123",
+      "Updated" : "2011-04-23T10:20:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 116.424077, 39.995839 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39.995839,116.424077",
+      "Location" : {
+        "Latitude" : "39.995839",
+        "Longitude" : "116.424077"
+      },
+      "Published" : "2011-03-08T09:21:29Z",
+      "Title" : "Beijing Chao Yang Qu Xiao Ying Lu",
+      "Updated" : "2011-03-08T09:21:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 103.8376596, 36.0480529 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12424712119056682306",
+      "Location" : {
+        "Address" : "Gannan Road, Chengguan, Lanzhou, Gansu, China",
+        "Business Name" : "Baluoke Pub",
+        "Country Code" : "CN",
+        "Geo Coordinates" : {
+          "Latitude" : "36.0480529",
+          "Longitude" : "103.8376596"
+        }
+      },
+      "Published" : "2011-01-22T03:42:19Z",
+      "Title" : "巴洛克咖啡酒吧",
+      "Updated" : "2011-01-22T03:42:19Z"
+    },
+    "type" : "Feature"
+  } ]
+}

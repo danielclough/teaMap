@@ -1,0 +1,15 @@
+html, body {
+        height: 100%;
+      }
+
+.map-container{
+	height: 90vh;
+}
+
+#map {
+height: 50%;
+}
+
+#map2 {
+height: 50%;
+}
