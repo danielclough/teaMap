@@ -13,25 +13,7 @@ postalcode: 89074
 country: USA
 region: Nevada
 import-export: importer
-how-many-samples:
-sample-name:
-sampleID:
-grams:
-price:
-quantity:
-purchase:
-grade:
-appearance:
-taste:
-cert:
-origin:
-cultivar:
-elevation:
-harvest-notes:
-processing:
-harvest-date:
-finish-date:
-recommended:
+
 
 categories:
 - Blending
